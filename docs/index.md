@@ -140,12 +140,12 @@ layout: default
 |**2026-01-16**|**A Defender-Attacker-Defender Model for Optimizing the Resilience of Hospital Networks to Cyberattacks**|Stephan Helfrich et.al.|[2601.11129](http://arxiv.org/abs/2601.11129)|null|
 |**2026-01-16**|**Differentially Private Subspace Fine-Tuning for Large Language Models**|Lele Zheng et.al.|[2601.11113](http://arxiv.org/abs/2601.11113)|null|
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4bio-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/ai4bio-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/ai4bio-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/ai4bio-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/ai4bio-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/ai4bio-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/ai4bio-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/ai4bio-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4math-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/Vincentqyw/ai4math-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/ai4math-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/Vincentqyw/ai4math-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/ai4math-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/Vincentqyw/ai4math-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/ai4math-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/Vincentqyw/ai4math-arxiv-daily/issues
 
