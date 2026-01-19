@@ -1,0 +1,49 @@
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "YuzeHao2023"
+repo_name: "daily-arxiv-ai4math"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/ai4math-arxiv-daily.json'
+json_gitpage_path: './docs/ai4math-arxiv-daily-web.json'
+json_wechat_path: './docs/ai4math-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+    "Formal Methods & Automated Reasoning":
+        filters: ["Automated Theorem Proving", "ATP", "Interactive Theorem Proving", "ITP", "Lean Prover", "Coq", "Isabelle/HOL", "Formal Verification", "Autoformalization", "Premise Selection", "Proof Synthesis", "Neural Theorem Proving", "First-Order Logic"]
+
+    "Symbolic AI & Equation Discovery":
+        filters: ["Symbolic Regression", "Symbolic Manipulation", "Neuro-Symbolic Reasoning", "Equation Discovery", "SINDy", "Symbolic Computation", "Mathematical Expression Recognition", "Gröbner Bases", "Program Synthesis", "Computer Algebra Systems"]
+
+    "LLMs for Mathematics":
+        filters: ["Mathematical Language Models", "MathLLM", "Chain-of-Thought Reasoning", "Minerva", "AlphaGeometry", "Mathematical Representation Learning", "Math Question Answering", "MathQA", "Self-Correction", "In-context Learning for Math"]
+
+    "Geometry, Topology & Graph Theory":
+        filters: ["Geometric Deep Learning", "Topological Data Analysis", "TDA", "Persistent Homology", "Manifold Learning", "Knot Theory", "Algebraic Geometry", "Differential Geometry", "Graph Neural Networks for Math", "Graph Theory", "Geometric Representation Learning"]
+
+    "Combinatorics & Optimization":
+        filters: ["Combinatorial Optimization", "Extremal Combinatorics", "Integer Programming", "Linear Programming", "Constraint Satisfaction", "TSP", "Heuristic Search", "Discrete Mathematics", "Ramsey Theory", "Enumerative Combinatorics"]
+
+    "Analysis & PDE Learning":
+        filters: ["Partial Differential Equations", "PDE Learning", "Neural Operators", "DeepONet", "Physics-Informed Neural Networks", "PINNs", "Dynamical Systems", "Functional Analysis", "Operator Learning", "Scientific Machine Learning", "SciML"]
+
+    "Numerical Analysis & Scientific Computing":
+        filters: ["Numerical Optimization", "Numerical Linear Algebra", "Finite Element Method", "FEM", "Scientific Computing", "Convergence Analysis", "Approximation Theory", "Numerical Stability", "Matrix Completion", "Sparse Recovery"]
+
+    "Probability, Statistics & Algebra":
+        filters: ["Statistical Learning Theory", "Bayesian Inference", "Stochastic Processes", "Markov Chain Monte Carlo", "MCMC", "Optimal Transport", "Number Theory", "Group Theory", "Algebraic Structure Learning", "Random Matrix Theory"]
+
+    "Discrete Math & Cryptography":
+        filters: ["Cryptography", "Lattice-Based Cryptography", "Error-Correcting Codes", "Coding Theory", "Boolean Functions", "Cryptographic Protocol Verification", "Discrete Logarithm"]

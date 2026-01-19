@@ -1,2 +1,2 @@
-# daily-arxiv-ai4math
-🎓Automatically Update AI4math Papers Daily using Github Actions
+# daily-arxiv-ai4bio
+🎓Automatically Update AI4Bio Papers Daily using Github Actions
