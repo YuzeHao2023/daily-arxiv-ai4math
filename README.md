@@ -60,6 +60,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**ECSEL: Explainable Classification via Signomial Equation Learning**|Adia Lumadjeng et.al.|[2601.21789](http://arxiv.org/abs/2601.21789)|null|
 |**2026-01-29**|**Integrating prior knowledge in equation discovery: Interpretable symmetry-informed neural networks and symbolic regression via characteristic curves**|Federico J. Gonzalez et.al.|[2601.21720](http://arxiv.org/abs/2601.21720)|null|
 |**2026-01-29**|**KAPSO: A Knowledge-grounded framework for Autonomous Program Synthesis and Optimization**|Alireza Nadaf et.al.|[2601.21526](http://arxiv.org/abs/2601.21526)|null|
 |**2026-01-29**|**Modeling Endogenous Logic: Causal Neuro-Symbolic Reasoning Model for Explainable Multi-Behavior Recommendation**|Yuzhe Chen et.al.|[2601.21335](http://arxiv.org/abs/2601.21335)|null|
@@ -100,6 +101,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding**|Yifan Zhu et.al.|[2601.21969](http://arxiv.org/abs/2601.21969)|null|
+|**2026-01-29**|**Distribution-Aware Reward Estimation for Test-Time Reinforcement Learning**|Bodong Du et.al.|[2601.21804](http://arxiv.org/abs/2601.21804)|null|
 |**2026-01-29**|**EmboCoach-Bench: Benchmarking AI Agents on Developing Embodied Robots**|Zixing Lei et.al.|[2601.21570](http://arxiv.org/abs/2601.21570)|null|
 |**2026-01-29**|**Finite-size corrections to the crosscap overlap in the two-dimensional Ising model**|Yiteng Zhang et.al.|[2601.21502](http://arxiv.org/abs/2601.21502)|null|
 |**2026-01-29**|**The Path of Least Resistance: Guiding LLM Reasining Trajectories with Prefix Consensus**|Ishan Jindal et.al.|[2601.21494](http://arxiv.org/abs/2601.21494)|null|
@@ -145,6 +148,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**All-order prescription for facet regions in massless wide-angle scattering**|Yao Ma et.al.|[2601.22144](http://arxiv.org/abs/2601.22144)|null|
+|**2026-01-29**|**Half-space type theorems for a class of weighted minimal surfaces in $\mathbb{R}^{3}$**|A. L. Martínez-Triviño et.al.|[2601.22092](http://arxiv.org/abs/2601.22092)|null|
+|**2026-01-29**|**$K$ -Equivalence and Integral Cohomology**|Matthew Satriano et.al.|[2601.22085](http://arxiv.org/abs/2601.22085)|null|
+|**2026-01-29**|**On singularities of determinantal hypersurfaces**|Daniel Bath et.al.|[2601.22072](http://arxiv.org/abs/2601.22072)|null|
+|**2026-01-29**|**Highest weight categories via pairs of dual exceptional sequences**|Agnieszka Bodzenta et.al.|[2601.22004](http://arxiv.org/abs/2601.22004)|null|
+|**2026-01-29**|**Generalizations of tropical Tevelev degrees**|Erin Dawson et.al.|[2601.21973](http://arxiv.org/abs/2601.21973)|null|
+|**2026-01-29**|**Linear systems on rational surfaces**|Cyril J. Jacob et.al.|[2601.21958](http://arxiv.org/abs/2601.21958)|null|
+|**2026-01-29**|**Lectures on Mean Curvature Flow and Related Equations**|Tom Ilmanen et.al.|[2601.21952](http://arxiv.org/abs/2601.21952)|null|
+|**2026-01-29**|**LoRIF: Low-Rank Influence Functions for Scalable Training Data Attribution**|Shuangqi Li et.al.|[2601.21929](http://arxiv.org/abs/2601.21929)|null|
+|**2026-01-29**|**Quotient geometry of tensor ring decomposition**|Bin Gao et.al.|[2601.21874](http://arxiv.org/abs/2601.21874)|null|
 |**2026-01-29**|**Lorentz meets Ptolemy**|Felix Rott et.al.|[2601.21596](http://arxiv.org/abs/2601.21596)|null|
 |**2026-01-29**|**Asymptotic Enumeration of Subclasses of Level- $2$ Phylogenetic Networks**|Hexuan Liu et.al.|[2601.21578](http://arxiv.org/abs/2601.21578)|null|
 |**2026-01-29**|**New examples of non-Fourier-Mukai exact functors via non-isomorphic octahedra**|Alberto Canonaco et.al.|[2601.21559](http://arxiv.org/abs/2601.21559)|null|
@@ -192,6 +205,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Batched First-Order Methods for Parallel LP Solving in MIP**|Nicolas Blin et.al.|[2601.21990](http://arxiv.org/abs/2601.21990)|null|
+|**2026-01-29**|**Joint Laser Inter-Satellite Link Matching and Traffic Flow Routing in LEO Mega-Constellations via Lagrangian Duality**|Zhouyou Gu et.al.|[2601.21914](http://arxiv.org/abs/2601.21914)|null|
+|**2026-01-29**|**Managing Solution Stability in Decision-Focused Learning with Cost Regularization**|Victor Spitzer et.al.|[2601.21883](http://arxiv.org/abs/2601.21883)|null|
 |**2026-01-29**|**Hierarchical quantum decoders**|Nirupam Basak et.al.|[2601.21715](http://arxiv.org/abs/2601.21715)|null|
 |**2026-01-29**|**Improved Approximations for the Unsplittable Capacitated Vehicle Routing Problem**|Jingyang Zhao et.al.|[2601.21660](http://arxiv.org/abs/2601.21660)|null|
 |**2026-01-29**|**Multi-objective Integer Linear Programming approach for Automatic Software Cognitive Complexity Reduction**|Adriana Novoa-Hurtado et.al.|[2601.21565](http://arxiv.org/abs/2601.21565)|null|
@@ -239,6 +255,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR**|Irsyad Adam et.al.|[2601.22128](http://arxiv.org/abs/2601.22128)|null|
+|**2026-01-29**|**Physics Informed Reconstruction of Four-Dimensional Atmospheric Wind Fields Using Multi-UAS Swarm Observations in a Synthetic Turbulent Environment**|Abdullah Tasim et.al.|[2601.22111](http://arxiv.org/abs/2601.22111)|null|
+|**2026-01-29**|**On Global Weak Solutions for the Magnetic Two-Component Hunter-Saxton System**|Levin Maier et.al.|[2601.22088](http://arxiv.org/abs/2601.22088)|null|
+|**2026-01-29**|**Learning Transient Convective Heat Transfer with Geometry Aware World Models**|Onur T. Doganay et.al.|[2601.22086](http://arxiv.org/abs/2601.22086)|null|
+|**2026-01-29**|**Canonical chain complexes for Morse-Smale vector fields**|Clemens Bannwart et.al.|[2601.22066](http://arxiv.org/abs/2601.22066)|null|
+|**2026-01-29**|**Ergodicity for SPDEs driven by divergence-free transport noise**|Benjamin Gess et.al.|[2601.22056](http://arxiv.org/abs/2601.22056)|null|
+|**2026-01-29**|**Generalized Information Gathering Under Dynamics Uncertainty**|Fernando Palafox et.al.|[2601.21988](http://arxiv.org/abs/2601.21988)|null|
+|**2026-01-29**|**Exact coherent structures as building blocks of turbulence on large domains**|Dmitriy Zhigunov et.al.|[2601.21970](http://arxiv.org/abs/2601.21970)|null|
+|**2026-01-29**|**Rapid estimation of global sea surface temperatures from sparse streaming in situ observations**|Cassidy All et.al.|[2601.21913](http://arxiv.org/abs/2601.21913)|null|
+|**2026-01-29**|**A priori bounds for some infinitely renormalizable quadratic: IV. Elephant Eyes**|Jeremy Kahn et.al.|[2601.21905](http://arxiv.org/abs/2601.21905)|null|
 |**2026-01-29**|**A reduced basis method for parabolic PDEs based on a space-time least squares formulation**|Michael Hinze et.al.|[2601.21736](http://arxiv.org/abs/2601.21736)|null|
 |**2026-01-29**|**Formalization of non-Archimedean functional analysis 1: spherically complete spaces**|Yijun Yuan et.al.|[2601.21734](http://arxiv.org/abs/2601.21734)|null|
 |**2026-01-29**|**New inequalities related to sums of $L^p$ functions in connection with Carbery's problems**|Asadollah Aghajani et.al.|[2601.21594](http://arxiv.org/abs/2601.21594)|null|
@@ -286,6 +312,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**A novel Krylov subspace method for approximating Fréchet derivatives of large-scale matrix functions**|Daniel Kressner et.al.|[2601.21799](http://arxiv.org/abs/2601.21799)|null|
 |**2026-01-29**|**Spectral Gap of Metropolis Algorithms for Non-smooth Distributions under Isoperimetry**|Shuigen Liu et.al.|[2601.21763](http://arxiv.org/abs/2601.21763)|null|
 |**2026-01-29**|**Numerical analysis of a locking-free primal hybrid method for linear elasticity with $H(\mathrm{div})$ -conforming stress recovery**|Giovanni Taraschi et.al.|[2601.21635](http://arxiv.org/abs/2601.21635)|null|
 |**2026-01-29**|**A Unified SPD Token Transformer Framework for EEG Classification: Systematic Comparison of Geometric Embeddings**|Chi-Sheng Chen et.al.|[2601.21521](http://arxiv.org/abs/2601.21521)|null|
@@ -329,6 +356,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Projective reflection groups of finite covolume**|Balthazar Fléchelles et.al.|[2601.22067](http://arxiv.org/abs/2601.22067)|null|
+|**2026-01-29**|**Investigating Batch Inference in a Sequential Monte Carlo Framework for Neural Networks**|Andrew Millard et.al.|[2601.21983](http://arxiv.org/abs/2601.21983)|null|
+|**2026-01-29**|**Motivic pieces of curves: $L$ -functions and periods**|Harry Spencer et.al.|[2601.21934](http://arxiv.org/abs/2601.21934)|null|
+|**2026-01-29**|**A generalisation of the Euclid-Mullin sequences**|Andrew R. Booker et.al.|[2601.21901](http://arxiv.org/abs/2601.21901)|null|
+|**2026-01-29**|**Synchronization points: growth, asymptotics, congruences, and the synchronization zeta function**|Alexander Fel'shtyn et.al.|[2601.21888](http://arxiv.org/abs/2601.21888)|null|
+|**2026-01-29**|**Reduction theorems for a conjecture on basis in source algebras of blocks of finite groups**|Tiberiu Coconet et.al.|[2601.21834](http://arxiv.org/abs/2601.21834)|null|
+|**2026-01-29**|**The sum-product problem for small sets II**|Phillip Antis et.al.|[2601.21828](http://arxiv.org/abs/2601.21828)|null|
+|**2026-01-29**|**Frobenius numbers and the first Hilbert coefficients of certain numerical semigroup rings**|Do Van Kien et.al.|[2601.21819](http://arxiv.org/abs/2601.21819)|null|
+|**2026-01-29**|**Filtrations and cohomology on graph products**|Oussama Hamza et.al.|[2601.21784](http://arxiv.org/abs/2601.21784)|null|
+|**2026-01-29**|**Mean-field Variational Bayes for Sparse Probit Regression**|Augusto Fasano et.al.|[2601.21765](http://arxiv.org/abs/2601.21765)|null|
 |**2026-01-29**|**The Classification of Supersingular Elliptic Curves in Characteristic 3**|Alexey Orlov et.al.|[2601.21756](http://arxiv.org/abs/2601.21756)|null|
 |**2026-01-29**|**Optimal Transport for Time-Varying Multi-Agent Coverage Control**|Italo Napolitano et.al.|[2601.21753](http://arxiv.org/abs/2601.21753)|null|
 |**2026-01-29**|**Formalization of non-Archimedean functional analysis 1: spherically complete spaces**|Yijun Yuan et.al.|[2601.21734](http://arxiv.org/abs/2601.21734)|null|
@@ -376,6 +413,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**RedSage: A Cybersecurity Generalist LLM**|Naufal Suryanto et.al.|[2601.22159](http://arxiv.org/abs/2601.22159)|null|
+|**2026-01-29**|**StepShield: When, Not Whether to Intervene on Rogue Agents**|Gloria Felicia et.al.|[2601.22136](http://arxiv.org/abs/2601.22136)|null|
+|**2026-01-29**|**Secure Group Key Agreement on Cyber-Physical System Buses**|Sebastian N. Peters et.al.|[2601.21966](http://arxiv.org/abs/2601.21966)|null|
+|**2026-01-29**|**Beyond the Finite Variant Property: Extending Symbolic Diffie-Hellman Group Models (Extended Version)**|Sofia Giampietro et.al.|[2601.21910](http://arxiv.org/abs/2601.21910)|null|
+|**2026-01-29**|**Hardware-Triggered Backdoors**|Jonas Möller et.al.|[2601.21902](http://arxiv.org/abs/2601.21902)|null|
+|**2026-01-29**|**Making Models Unmergeable via Scaling-Sensitive Loss Landscape**|Minwoo Jang et.al.|[2601.21898](http://arxiv.org/abs/2601.21898)|null|
+|**2026-01-29**|**WADBERT: Dual-channel Web Attack Detection Based on BERT Models**|Kangqiang Luo et.al.|[2601.21893](http://arxiv.org/abs/2601.21893)|null|
+|**2026-01-29**|**A Bravyi-König theorem for Floquet codes generated by locally conjugate instantaneous stabiliser groups**|Jelena Mackeprang et.al.|[2601.21863](http://arxiv.org/abs/2601.21863)|null|
 |**2026-01-29**|**FIT: Defying Catastrophic Forgetting in Continual LLM Unlearning**|Xiaoyu Xu et.al.|[2601.21682](http://arxiv.org/abs/2601.21682)|null|
 |**2026-01-29**|**Incremental Fingerprinting in an Open World**|Loes Kruger et.al.|[2601.21680](http://arxiv.org/abs/2601.21680)|null|
 |**2026-01-29**|**Authenticated encryption for space telemetry**|Andrew Savchenko et.al.|[2601.21657](http://arxiv.org/abs/2601.21657)|null|
