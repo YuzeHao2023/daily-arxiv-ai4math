@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**A Formal Analysis of Capacity Scaling Algorithms for Minimum-Cost Flows**|Mohammad Abdulaziz et.al.|[2602.03701](http://arxiv.org/abs/2602.03701)|null|
+|**2026-02-03**|**Formal Evidence Generation for Assurance Cases for Robotic Software Models**|Fang Yan et.al.|[2602.03550](http://arxiv.org/abs/2602.03550)|null|
 |**2026-02-02**|**Categoricity for inferential $ω$-logic and $L_{ω_1,ω}$**|John T. Baldwin et.al.|[2602.02854](http://arxiv.org/abs/2602.02854)|null|
 |**2026-02-01**|**Learnable Koopman-Enhanced Transformer-Based Time Series Forecasting with Spectral Control**|Ali Forootani et.al.|[2602.02592](http://arxiv.org/abs/2602.02592)|null|
 |**2026-02-02**|**ROG: Retrieval-Augmented LLM Reasoning for Complex First-Order Queries over Knowledge Graphs**|Ziyan Zhang et.al.|[2602.02382](http://arxiv.org/abs/2602.02382)|null|
@@ -58,6 +60,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Complete Reduction for Derivatives in a Transcendental Liouvillian Extension**|Shaoshi Chen et.al.|[2602.03592](http://arxiv.org/abs/2602.03592)|null|
+|**2026-02-03**|**Explaining the Explainer: Understanding the Inner Workings of Transformer-based Symbolic Regression Models**|Arco van Breda et.al.|[2602.03506](http://arxiv.org/abs/2602.03506)|null|
 |**2026-02-03**|**Symbol-Aware Reasoning with Masked Discrete Diffusion for Handwritten Mathematical Expression Recognition**|Takaya Kawakatsu et.al.|[2602.03370](http://arxiv.org/abs/2602.03370)|null|
 |**2026-02-03**|**On the Summability Problem of Multivariate Rational Functions in the Mixed Case**|Shaoshi Chen et.al.|[2602.03289](http://arxiv.org/abs/2602.03289)|null|
 |**2026-02-03**|**Learning Fast Monomial Orders for Gröbner Basis Computations**|R. Caleb Bunch et.al.|[2602.02972](http://arxiv.org/abs/2602.02972)|null|
@@ -112,6 +116,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
+|**2026-02-03**|**Self-supervised Physics-Informed Manipulation of Deformable Linear Objects with Non-negligible Dynamics**|Youyuan Long et.al.|[2602.03623](http://arxiv.org/abs/2602.03623)|null|
 |**2026-02-03**|**Self-Verification Dilemma: Experience-Driven Suppression of Overused Checking in LLM Reasoning**|Quanyu Long et.al.|[2602.03485](http://arxiv.org/abs/2602.03485)|null|
 |**2026-02-03**|**SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation**|Chao Chen et.al.|[2602.03324](http://arxiv.org/abs/2602.03324)|null|
 |**2026-02-03**|**Prompt Augmentation Scales up GRPO Training on Mathematical Reasoning**|Wenquan Lu et.al.|[2602.03190](http://arxiv.org/abs/2602.03190)|null|
@@ -192,6 +198,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Parity of $k$ -differentials in genus zero and one**|Dawei Chen et.al.|[2602.03722](http://arxiv.org/abs/2602.03722)|null|
+|**2026-02-03**|**Point Vortex Dynamics on Closed Surfaces**|Marcel Padilla et.al.|[2602.03684](http://arxiv.org/abs/2602.03684)|null|
+|**2026-02-03**|**Recent advances in Brill--Noether theory and the geometry of Brill--Noether curves**|Isabel Vogt et.al.|[2602.03660](http://arxiv.org/abs/2602.03660)|null|
+|**2026-02-03**|**Cohomological properties and Hermitian metrics of complex non-Kähler manifolds**|Daniele Angella et.al.|[2602.03653](http://arxiv.org/abs/2602.03653)|null|
+|**2026-02-03**|**Double integrals and transformation formulas for Appell--Lauricella hypergeometric functions $F_D$**|Shihao Wang et.al.|[2602.03601](http://arxiv.org/abs/2602.03601)|null|
+|**2026-02-03**|**Cut to the Mix: Simple Data Augmentation Outperforms Elaborate Ones in Limited Organ Segmentation Datasets**|Chang Liu et.al.|[2602.03555](http://arxiv.org/abs/2602.03555)|null|
+|**2026-02-03**|**n-th Tropical Nevanlinna Theory**|Risto Korhonen et.al.|[2602.03500](http://arxiv.org/abs/2602.03500)|null|
 |**2026-02-03**|**A low-regularity Riemannian positive mass theorem for non-spin manifolds with distributional curvature**|Eduardo Hafemann et.al.|[2602.03451](http://arxiv.org/abs/2602.03451)|null|
 |**2026-02-03**|**$λ$ -ring structure in differential K-theory**|Bo Liu et.al.|[2602.03450](http://arxiv.org/abs/2602.03450)|null|
 |**2026-02-03**|**Symmetries and Higher-Form Connections in Derived Differential Geometry**|Severin Bunk et.al.|[2602.03441](http://arxiv.org/abs/2602.03441)|null|
@@ -292,6 +305,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Excluding an apex-forest or a fan as quickly as possible**|Quentin Claus et.al.|[2602.03833](http://arxiv.org/abs/2602.03833)|null|
+|**2026-02-03**|**Digital-Twin Empowered Deep Reinforcement Learning For Site-Specific Radio Resource Management in NextG Wireless Aerial Corridor**|Pulok Tarafder et.al.|[2602.03801](http://arxiv.org/abs/2602.03801)|null|
+|**2026-02-03**|**Factor-balancedness, linear recurrence, and factor complexity**|Bastiàn Espinoza et.al.|[2602.03746](http://arxiv.org/abs/2602.03746)|null|
+|**2026-02-03**|**Fast-MWEM: Private Data Release in Sublinear Time**|Themistoklis Haris et.al.|[2602.03732](http://arxiv.org/abs/2602.03732)|null|
+|**2026-02-03**|**Efficient Algorithms for Partial Constraint Satisfaction Problems over Control-flow Graphs**|Xuran Cai et.al.|[2602.03588](http://arxiv.org/abs/2602.03588)|null|
 |**2026-02-03**|**Exploiting Multi-Core Parallelism in Blockchain Validation and Construction**|Arivarasan Karmegam et.al.|[2602.03444](http://arxiv.org/abs/2602.03444)|null|
 |**2026-02-03**|**ProAct: A Benchmark and Multimodal Framework for Structure-Aware Proactive Response**|Xiaomeng Zhu et.al.|[2602.03430](http://arxiv.org/abs/2602.03430)|null|
 |**2026-02-03**|**Vigemers: on the number of $k$ -mers sharing the same XOR-based minimizer**|Florian Ingels et.al.|[2602.03337](http://arxiv.org/abs/2602.03337)|null|
@@ -384,6 +402,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**On the maximal perimeter of isotropic log-concave probability measures**|Silouanos Brazitikos et.al.|[2602.03831](http://arxiv.org/abs/2602.03831)|null|
+|**2026-02-03**|**SymPlex: A Structure-Aware Transformer for Symbolic PDE Solving**|Yesom Park et.al.|[2602.03816](http://arxiv.org/abs/2602.03816)|null|
+|**2026-02-03**|**Conformal Reachability for Safe Control in Unknown Environments**|Xinhang Ma et.al.|[2602.03799](http://arxiv.org/abs/2602.03799)|null|
+|**2026-02-03**|**Factor-balancedness, linear recurrence, and factor complexity**|Bastiàn Espinoza et.al.|[2602.03746](http://arxiv.org/abs/2602.03746)|null|
+|**2026-02-03**|**Emergent structures in coupled opinion and network dynamics**|Andrew Nugent et.al.|[2602.03738](http://arxiv.org/abs/2602.03738)|null|
+|**2026-02-03**|**Spectral gap for Pollicott-Ruelle resonances on random coverings of Anosov surfaces**|Julien Moy et.al.|[2602.03726](http://arxiv.org/abs/2602.03726)|null|
+|**2026-02-03**|**Quantum Speedups for Derivative Pricing Beyond Black-Scholes**|Dylan Herman et.al.|[2602.03725](http://arxiv.org/abs/2602.03725)|null|
+|**2026-02-03**|**Point Vortex Dynamics on Closed Surfaces**|Marcel Padilla et.al.|[2602.03684](http://arxiv.org/abs/2602.03684)|null|
+|**2026-02-03**|**Equilibrium Propagation for Non-Conservative Systems**|Antonino Emanuele Scurria et.al.|[2602.03670](http://arxiv.org/abs/2602.03670)|null|
+|**2026-02-03**|**The R-Shilov boundary for a local operator space**|Maria Joiţa et.al.|[2602.03628](http://arxiv.org/abs/2602.03628)|null|
 |**2026-02-03**|**Base norm spaces--classical, complex, and noncommutative**|David P. Blecher et.al.|[2602.03446](http://arxiv.org/abs/2602.03446)|null|
 |**2026-02-03**|**When control meets large language models: From words to dynamics**|Komeil Nosrati et.al.|[2602.03433](http://arxiv.org/abs/2602.03433)|null|
 |**2026-02-03**|**Neural Hodge Corrective Solvers: A Hybrid Iterative-Neural Framework**|Arjun Puthli et.al.|[2602.03404](http://arxiv.org/abs/2602.03404)|null|
@@ -487,6 +515,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**A High-order piecewise field-aligned triangular finite element method for electromagnetic gyrokinetic particle simulations of tokamak plasmas with open field lines**|Zhixin Lu et.al.|[2602.03759](http://arxiv.org/abs/2602.03759)|null|
+|**2026-02-03**|**Transformation front kinetics in deformable ferromagnets**|Michael Poluektov et.al.|[2602.03745](http://arxiv.org/abs/2602.03745)|null|
 |**2026-02-03**|**Neural Hodge Corrective Solvers: A Hybrid Iterative-Neural Framework**|Arjun Puthli et.al.|[2602.03404](http://arxiv.org/abs/2602.03404)|null|
 |**2026-02-03**|**A Unified SVD-Modal Solution for Sparse Sound Field Reconstruction with Hybrid Spherical-Linear Microphone Arrays**|Shunxi Xu et.al.|[2602.03398](http://arxiv.org/abs/2602.03398)|null|
 |**2026-02-03**|**Computational Tools in EN-MME: Implicit and Explicit Finite-Element Simulations**|Federico Carra et.al.|[2602.03270](http://arxiv.org/abs/2602.03270)|null|
@@ -557,6 +587,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**On a conjecture of Peter Neumann on fixed points in permutation groups**|Daniele Garzoni et.al.|[2602.03832](http://arxiv.org/abs/2602.03832)|null|
+|**2026-02-03**|**Generation of Iterated Wreath Products Constructed from Almost Simple Groups**|Jiaping Lu et.al.|[2602.03830](http://arxiv.org/abs/2602.03830)|null|
+|**2026-02-03**|**Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion**|Oscar Ovanger et.al.|[2602.03817](http://arxiv.org/abs/2602.03817)|null|
+|**2026-02-03**|**Computing submodules of points of general Drinfeld modules over finite fields**|Antoine Leudière et.al.|[2602.03803](http://arxiv.org/abs/2602.03803)|null|
+|**2026-02-03**|**Quantum Speedups for Derivative Pricing Beyond Black-Scholes**|Dylan Herman et.al.|[2602.03725](http://arxiv.org/abs/2602.03725)|null|
+|**2026-02-03**|**Parity of $k$ -differentials in genus zero and one**|Dawei Chen et.al.|[2602.03722](http://arxiv.org/abs/2602.03722)|null|
+|**2026-02-03**|**Fel's Conjecture on Syzygies of Numerical Semigroups**|Evan Chen et.al.|[2602.03716](http://arxiv.org/abs/2602.03716)|null|
+|**2026-02-03**|**The largest prime factor of an irreducible cubic polynomial**|Ivan Ermoshin et.al.|[2602.03642](http://arxiv.org/abs/2602.03642)|null|
+|**2026-02-03**|**Numerical Computations Concerning Landau-Siegel Zeros**|Rick F. Lu et.al.|[2602.03626](http://arxiv.org/abs/2602.03626)|null|
+|**2026-02-03**|**Stability of the weak Haagerup property under graph products**|Shubhabrata Das et.al.|[2602.03577](http://arxiv.org/abs/2602.03577)|null|
 |**2026-02-03**|**A New Expression for the Bernoulli Numbers and its Applications**|Levent Kargın et.al.|[2602.03440](http://arxiv.org/abs/2602.03440)|null|
 |**2026-02-03**|**On the Convergence of Wasserstein Gradient Descent for Sampling**|Van Chien Ta et.al.|[2602.03413](http://arxiv.org/abs/2602.03413)|null|
 |**2026-02-03**|**In Search of Approximate Polynomial Dependencies Among the Derivatives of the Alternating Zeta Function**|Yuri Matiyasevich et.al.|[2602.03408](http://arxiv.org/abs/2602.03408)|null|
@@ -658,6 +698,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents**|Xilong Wang et.al.|[2602.03792](http://arxiv.org/abs/2602.03792)|null|
+|**2026-02-03**|**mopri - An Analysis Framework for Unveiling Privacy Violations in Mobile Apps**|Cornell Ziepel et.al.|[2602.03671](http://arxiv.org/abs/2602.03671)|null|
+|**2026-02-03**|**Reference-Free EM Validation Flow for Detecting Triggered Hardware Trojans**|Mahsa Tahghigh et.al.|[2602.03666](http://arxiv.org/abs/2602.03666)|null|
+|**2026-02-03**|**Can Developers rely on LLMs for Secure IaC Development?**|Ehsan Firouzi et.al.|[2602.03648](http://arxiv.org/abs/2602.03648)|null|
+|**2026-02-03**|**Don't believe everything you read: Understanding and Measuring MCP Behavior under Misleading Tool Descriptions**|Zhihao Li et.al.|[2602.03580](http://arxiv.org/abs/2602.03580)|null|
+|**2026-02-03**|**Secure Decentralized Pliable Index Coding for Target Data Size**|Anjali Padmanabhan et.al.|[2602.03579](http://arxiv.org/abs/2602.03579)|null|
+|**2026-02-03**|**WARP Logic Neural Networks**|Lino Gerlach et.al.|[2602.03527](http://arxiv.org/abs/2602.03527)|null|
 |**2026-02-03**|**Detecting and Explaining Malware Family Evolution Using Rule-Based Drift Analysis**|Olha Jurečková et.al.|[2602.03489](http://arxiv.org/abs/2602.03489)|null|
 |**2026-02-03**|**Reading Between the Code Lines: On the Use of Self-Admitted Technical Debt for Security Analysis**|Nicolás E. Díaz Ferreyra et.al.|[2602.03470](http://arxiv.org/abs/2602.03470)|null|
 |**2026-02-03**|**Origin Lens: A Privacy-First Mobile Framework for Cryptographic Image Provenance and AI Detection**|Alexander Loth et.al.|[2602.03423](http://arxiv.org/abs/2602.03423)|null|
