@@ -229,6 +229,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Pairs of differential forms: a framework for precontact geometry**|Xavier Gràcia et.al.|[2602.04882](http://arxiv.org/abs/2602.04882)|null|
+|**2026-02-04**|**Homological Mirror Symmetry for orbifold log Calabi-Yau surfaces**|Bogdan Simeonov et.al.|[2602.04866](http://arxiv.org/abs/2602.04866)|null|
+|**2026-02-04**|**Characterizing $(d,h)$ -elliptic stable irreducible curves**|Juliana Coelho et.al.|[2602.04865](http://arxiv.org/abs/2602.04865)|null|
+|**2026-02-04**|**A note on tractor bundles and codimension two spacelike immersions**|Rodrigo Morón et.al.|[2602.04860](http://arxiv.org/abs/2602.04860)|null|
+|**2026-02-04**|**Geometric realization of $W$ -operators**|Lu-Yao Wang et.al.|[2602.04779](http://arxiv.org/abs/2602.04779)|null|
+|**2026-02-04**|**Translating auxiliary symmetries between Schottky uniformization and Jacobi parametrization**|Manuel Berger et.al.|[2602.04715](http://arxiv.org/abs/2602.04715)|null|
 |**2026-02-04**|**Exact Volumes of Semi-Algebraic Convex Bodies**|Lakshmi Ramesh et.al.|[2602.04707](http://arxiv.org/abs/2602.04707)|null|
 |**2026-02-04**|**A Darboux classification of homogeneous Pfaffian forms on graded manifolds**|Janusz Grabowski et.al.|[2602.04671](http://arxiv.org/abs/2602.04671)|null|
 |**2026-02-04**|**Dyck Paths, Configuration Spaces and Polytopes For Linear Nakayama algebras**|Veronica Calvo Cortes et.al.|[2602.04571](http://arxiv.org/abs/2602.04571)|null|
@@ -348,6 +354,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Winning in the Limit: Average-Case Committee Selection with Many Candidates**|Yifan Lin et.al.|[2602.04815](http://arxiv.org/abs/2602.04815)|null|
 |**2026-02-04**|**Quantum-Assisted Design of Space-Terrestrial Integrated Networks**|Chiara Vercellino et.al.|[2602.04350](http://arxiv.org/abs/2602.04350)|null|
 |**2026-02-04**|**Variable Aggregation-based Perspective Reformulation for Mixed-Integer Convex Optimization with Symmetry**|Junhao Wu et.al.|[2602.04123](http://arxiv.org/abs/2602.04123)|null|
 |**2026-02-04**|**New Outer Approximation Algorithms for Nonsmooth Convex MINLP Problems**|Zhou Wei et.al.|[2602.04122](http://arxiv.org/abs/2602.04122)|null|
@@ -452,6 +459,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Generic one-parameter families of 3-dimensional Filippov Systems**|R. D. Euzébio et.al.|[2602.04857](http://arxiv.org/abs/2602.04857)|null|
+|**2026-02-04**|**The finite Hilbert transform acting on $L^\infty$**|Guillermo P. Curbera et.al.|[2602.04844](http://arxiv.org/abs/2602.04844)|null|
+|**2026-02-04**|**Continuous eigenvalues of minimal subshifts via S-adic representations**|Valérie Berthé et.al.|[2602.04833](http://arxiv.org/abs/2602.04833)|null|
+|**2026-02-04**|**Intrinsic Ultracontractivity for a class of Schroedinger Semigroups in $\mathrm{L}^{2}\left( \mathbb{R}^{n} \right)$ using Log-Sobolev-inequalities and duality arguments**|Christoph Schwerdt et.al.|[2602.04738](http://arxiv.org/abs/2602.04738)|null|
+|**2026-02-04**|**On Data-Driven Unbiased Predictors using the Koopman Operator**|Roland Schurig et.al.|[2602.04720](http://arxiv.org/abs/2602.04720)|null|
 |**2026-02-04**|**Fourier integral operators on Orlicz modulation spaces**|Serap Öztop et.al.|[2602.04686](http://arxiv.org/abs/2602.04686)|null|
 |**2026-02-04**|**Intrinsic Ultracontractivity for a class of Schroedinger Semigroups in $L^{2}(\mathbb{R}^{n})$ by Logarithmic Sobolev inequalities**|Christoph Schwerdt et.al.|[2602.04685](http://arxiv.org/abs/2602.04685)|null|
 |**2026-02-04**|**A Parameterized Physics Informed Neural Network Solver for the Navier Stokes Equations Across Reynolds Numbers**|A. Jangir et.al.|[2602.04670](http://arxiv.org/abs/2602.04670)|null|
@@ -659,6 +671,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Multivariate and quantitative Erdős-Kac laws for Beatty sequences**|Fredy Yip et.al.|[2602.04875](http://arxiv.org/abs/2602.04875)|null|
+|**2026-02-04**|**Distorted and undistorted subgroups of the Lodha-Moore group**|Yuya Kodama et.al.|[2602.04839](http://arxiv.org/abs/2602.04839)|null|
+|**2026-02-04**|**Geometric realization of $W$ -operators**|Lu-Yao Wang et.al.|[2602.04779](http://arxiv.org/abs/2602.04779)|null|
+|**2026-02-04**|**An R=T theorem for certain orthogonal Shimura varieties**|Hao Peng et.al.|[2602.04778](http://arxiv.org/abs/2602.04778)|null|
 |**2026-02-04**|**Estimation of reliability and accuracy of models of $\varphi$ -sub-Gaussian process using generating functions of polynomial expansions**|Oleksandr Mokliachuk et.al.|[2602.04668](http://arxiv.org/abs/2602.04668)|null|
 |**2026-02-04**|**On the density of rational lines on diagonal cubic hypersurfaces**|Kiseok Yeon et.al.|[2602.04654](http://arxiv.org/abs/2602.04654)|null|
 |**2026-02-04**|**Impact of Higher-Order Modes on Eccentricity Measurement in Binary Black Hole Gravitational Waves**|Honglue Tang et.al.|[2602.04642](http://arxiv.org/abs/2602.04642)|null|
@@ -782,6 +798,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Digital signatures with classical shadows on near-term quantum computers**|Pradeep Niroula et.al.|[2602.04859](http://arxiv.org/abs/2602.04859)|null|
+|**2026-02-04**|**Game of Coding for Vector-Valued Computations**|Hanzaleh Akbari Nodehi et.al.|[2602.04810](http://arxiv.org/abs/2602.04810)|null|
+|**2026-02-04**|**Safe-NEureka: a Hybrid Modular Redundant DNN Accelerator for On-board Satellite AI Processing**|Riccardo Tedeschi et.al.|[2602.04803](http://arxiv.org/abs/2602.04803)|null|
+|**2026-02-04**|**Comparative Insights on Adversarial Machine Learning from Industry and Academia: A User-Study Approach**|Vishruti Kakkad et.al.|[2602.04753](http://arxiv.org/abs/2602.04753)|null|
 |**2026-02-04**|**The Needle is a Thread: Finding Planted Paths in Noisy Process Trees**|Maya Le et.al.|[2602.04694](http://arxiv.org/abs/2602.04694)|null|
 |**2026-02-04**|**Inference-Time Backdoors via Hidden Instructions in LLM Chat Templates**|Ariel Fogel et.al.|[2602.04653](http://arxiv.org/abs/2602.04653)|null|
 |**2026-02-04**|**A Human-Centered Privacy Approach (HCP) to AI**|Luyi Sun et.al.|[2602.04616](http://arxiv.org/abs/2602.04616)|null|
