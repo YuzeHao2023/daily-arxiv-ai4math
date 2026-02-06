@@ -127,6 +127,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Self-Improving Multilingual Long Reasoning via Translation-Reasoning Integrated Training**|Junxiao Liu et.al.|[2602.05940](http://arxiv.org/abs/2602.05940)|null|
+|**2026-02-05**|**The Effects of Non-ideal Mixing in Planetary Magma Oceans and Atmospheres**|Aaron Werlen et.al.|[2602.05917](http://arxiv.org/abs/2602.05917)|null|
+|**2026-02-05**|**Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations**|Wei Liu et.al.|[2602.05885](http://arxiv.org/abs/2602.05885)|null|
 |**2026-02-05**|**Weaver: End-to-End Agentic System Training for Video Interleaved Reasoning**|Yudi Shi et.al.|[2602.05829](http://arxiv.org/abs/2602.05829)|null|
 |**2026-02-05**|**Accelerating Benchmarking of Functional Connectivity Modeling via Structure-aware Core-set Selection**|Ling Zhan et.al.|[2602.05667](http://arxiv.org/abs/2602.05667)|null|
 |**2026-02-05**|**TangramSR: Can Vision-Language Models Reason in Continuous Geometric Space?**|Yikun Zong et.al.|[2602.05570](http://arxiv.org/abs/2602.05570)|null|
@@ -225,6 +228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Convex unions and completions from simplicial pseudomanifolds**|Soohyun Park et.al.|[2602.06016](http://arxiv.org/abs/2602.06016)|null|
+|**2026-02-05**|**Computing Diffusion Geometry**|Iolo Jones et.al.|[2602.06006](http://arxiv.org/abs/2602.06006)|null|
+|**2026-02-05**|**Dimensionality Reduction on Riemannian Manifolds in Data Analysis**|Alaa El Ichi et.al.|[2602.05936](http://arxiv.org/abs/2602.05936)|null|
 |**2026-02-05**|**Descent properties for an abelian variety with extended Galois representation**|Ludovic Felder et.al.|[2602.05834](http://arxiv.org/abs/2602.05834)|null|
 |**2026-02-05**|**Rigidity of proper holomorphic maps between balls with Hölder boundary regularity**|Jaan Amla Srimurthy et.al.|[2602.05795](http://arxiv.org/abs/2602.05795)|null|
 |**2026-02-05**|**Mertens products in arithmetic progressions over function fields**|Hwanyup Jung et.al.|[2602.05788](http://arxiv.org/abs/2602.05788)|null|
@@ -358,6 +364,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Explosive eruption cycles in a rotating Z-pinch**|David N. Hosking et.al.|[2602.06012](http://arxiv.org/abs/2602.06012)|null|
+|**2026-02-05**|**Normalization of ReLU Dual for Cut Generation in Stochastic Mixed-Integer Programs**|Akul Bansal et.al.|[2602.05974](http://arxiv.org/abs/2602.05974)|null|
+|**2026-02-05**|**Quantum Reinforcement Learning with Transformers for the Capacitated Vehicle Routing Problem**|Eva Andrés et.al.|[2602.05920](http://arxiv.org/abs/2602.05920)|null|
+|**2026-02-05**|**Beyond Manual Planning: Seating Allocation for Large Organizations**|Anton Ipsen et.al.|[2602.05875](http://arxiv.org/abs/2602.05875)|null|
 |**2026-02-05**|**Constrained Group Relative Policy Optimization**|Roger Girgis et.al.|[2602.05863](http://arxiv.org/abs/2602.05863)|null|
 |**2026-02-05**|**Note on the treewidth of graphs excluding a disjoint union of cycles as a minor**|Gwenaël Joret et.al.|[2602.05844](http://arxiv.org/abs/2602.05844)|null|
 |**2026-02-05**|**A Structural Equivalence of Symmetric TSP to a Constrained Group Steiner Tree Problem**|Yılmaz Arslanoğlu et.al.|[2602.05773](http://arxiv.org/abs/2602.05773)|null|
@@ -471,6 +481,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Vector-Valued Singular Integrals on Locally Doubling Spaces**|Mattia Calzi et.al.|[2602.06010](http://arxiv.org/abs/2602.06010)|null|
+|**2026-02-05**|**Inverse Depth Scaling From Most Layers Being Similar**|Yizhou Liu et.al.|[2602.05970](http://arxiv.org/abs/2602.05970)|null|
 |**2026-02-05**|**Visualizing the loss landscapes of physics-informed neural networks**|Conor Rowan et.al.|[2602.05849](http://arxiv.org/abs/2602.05849)|null|
 |**2026-02-05**|**Minimal Equicontinuous Actions on Stone Spaces**|María Isabel Cortez et.al.|[2602.05756](http://arxiv.org/abs/2602.05756)|null|
 |**2026-02-05**|**Smoothed aggregation algebraic multigrid for problems with heterogeneous and anisotropic materials**|Max Firmbach et.al.|[2602.05686](http://arxiv.org/abs/2602.05686)|null|
@@ -696,6 +708,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Learning Event-Based Shooter Models from Virtual Reality Experiments**|Christopher A. McClurg et.al.|[2602.06023](http://arxiv.org/abs/2602.06023)|null|
 |**2026-02-05**|**Generalized Perfect Matrices**|Alexander Oertel et.al.|[2602.05841](http://arxiv.org/abs/2602.05841)|null|
 |**2026-02-05**|**Descent properties for an abelian variety with extended Galois representation**|Ludovic Felder et.al.|[2602.05834](http://arxiv.org/abs/2602.05834)|null|
 |**2026-02-05**|**Mertens products in arithmetic progressions over function fields**|Hwanyup Jung et.al.|[2602.05788](http://arxiv.org/abs/2602.05788)|null|
@@ -831,6 +844,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Characterizing and Modeling the GitHub Security Advisories Review Pipeline**|Claudio Segal et.al.|[2602.06009](http://arxiv.org/abs/2602.06009)|null|
 |**2026-02-05**|**Entropy Bounds via Hypothesis Testing and Its Applications to Two-Way Key Distillation in Quantum Cryptography**|Rutvij Bhavsar et.al.|[2602.05870](http://arxiv.org/abs/2602.05870)|null|
 |**2026-02-05**|**Persistent Human Feedback, LLMs, and Static Analyzers for Secure Code Generation and Vulnerability Detection**|Ehsan Firouzi et.al.|[2602.05868](http://arxiv.org/abs/2602.05868)|null|
 |**2026-02-05**|**FHAIM: Fully Homomorphic AIM For Private Synthetic Data Generation**|Mayank Kumar et.al.|[2602.05838](http://arxiv.org/abs/2602.05838)|null|
