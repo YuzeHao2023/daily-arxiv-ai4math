@@ -172,6 +172,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Long Chain-of-Thought Compression via Fine-Grained Group Policy Optimization**|Xinchen Han et.al.|[2602.10048](http://arxiv.org/abs/2602.10048)|null|
+|**2026-02-10**|**ESTAR: Early-Stopping Token-Aware Reasoning For Efficient Inference**|Junda Wang et.al.|[2602.10004](http://arxiv.org/abs/2602.10004)|null|
 |**2026-02-10**|**GHS-TDA: A Synergistic Reasoning Framework Integrating Global Hypothesis Space with Topological Data Analysis**|Jiaquan Zhang et.al.|[2602.09794](http://arxiv.org/abs/2602.09794)|null|
 |**2026-02-10**|**Construction of the full logical Clifford group for high-rate quantum Reed-Muller codes using only transversal and fold-transversal gates**|Theerapat Tansuwannont et.al.|[2602.09788](http://arxiv.org/abs/2602.09788)|null|
 |**2026-02-10**|**Toroidal Confinement and Beyond: Vorticity-Defined Morphologies of Dipolar $^{164}$ Dy Quantum Droplets**|S. Sanjay et.al.|[2602.09683](http://arxiv.org/abs/2602.09683)|null|
@@ -314,6 +316,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**A lower bound for the Milnor number of vector fields**|Maurício Corrêa et.al.|[2602.10047](http://arxiv.org/abs/2602.10047)|null|
+|**2026-02-10**|**Graded Betti numbers of the Jacobian algebra of surfaces in $\mathbb P^3$**|Alexandru Dimca et.al.|[2602.09966](http://arxiv.org/abs/2602.09966)|null|
+|**2026-02-10**|**Geometric differentiation of simplicial manifolds**|Alejandro Cabrera et.al.|[2602.09885](http://arxiv.org/abs/2602.09885)|null|
 |**2026-02-10**|**Hecke curves in Frobenius strata of moduli space of rank 2 vector bundles**|Lingguang Li et.al.|[2602.09879](http://arxiv.org/abs/2602.09879)|null|
 |**2026-02-10**|**Geometric eigenvalue estimates of Kuttler-Sigillito type on differential forms**|Rodolphe Abou Assali et.al.|[2602.09876](http://arxiv.org/abs/2602.09876)|null|
 |**2026-02-10**|**Text summarization via global structure awareness**|Jiaquan Zhang et.al.|[2602.09821](http://arxiv.org/abs/2602.09821)|null|
@@ -492,6 +497,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Effectiveness of Binary Autoencoders for QUBO-Based Optimization Problems**|Tetsuro Abe et.al.|[2602.10037](http://arxiv.org/abs/2602.10037)|null|
+|**2026-02-10**|**Non-Additive Discrepancy: Coverage Functions in a Beck-Fiala Setting**|T. R. Avila et.al.|[2602.09948](http://arxiv.org/abs/2602.09948)|null|
 |**2026-02-10**|**Characterizing Large Clique Number in Tournaments**|Logan Crew et.al.|[2602.09863](http://arxiv.org/abs/2602.09863)|null|
 |**2026-02-10**|**Towards Poisoning Robustness Certification for Natural Language Generation**|Mihnea Ghitu et.al.|[2602.09757](http://arxiv.org/abs/2602.09757)|null|
 |**2026-02-10**|**On semidefinite-representable sets over valued fields**|Corentin Cornou et.al.|[2602.09702](http://arxiv.org/abs/2602.09702)|null|
@@ -651,6 +658,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**A lower bound for the Milnor number of vector fields**|Maurício Corrêa et.al.|[2602.10047](http://arxiv.org/abs/2602.10047)|null|
+|**2026-02-10**|**Entropy formula for surface diffeomorphisms**|Yuntao Zang et.al.|[2602.10033](http://arxiv.org/abs/2602.10033)|null|
+|**2026-02-10**|**Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks**|Enzo Nicolas Spotorno et.al.|[2602.09980](http://arxiv.org/abs/2602.09980)|null|
+|**2026-02-10**|**Drug Release Modeling using Physics-Informed Neural Networks**|Daanish Aleem Qureshi et.al.|[2602.09963](http://arxiv.org/abs/2602.09963)|null|
+|**2026-02-10**|**Wandering dynamics of transcendental functions**|Vasiliki Evdoridou et.al.|[2602.09952](http://arxiv.org/abs/2602.09952)|null|
+|**2026-02-10**|**A Viscosity Framework for Dynamic Programming Principles and Applications**|Félix del Teso et.al.|[2602.09946](http://arxiv.org/abs/2602.09946)|null|
 |**2026-02-10**|**An Extension and Refinement of the Brouwer-Schauder-Tychonoff Fixed Point Theorem**|Lixin Cheng et.al.|[2602.09853](http://arxiv.org/abs/2602.09853)|null|
 |**2026-02-10**|**Homogeneous maximizers of the Blaschke--Santalo-type functionals**|Alexander V. Kolesnikov et.al.|[2602.09818](http://arxiv.org/abs/2602.09818)|null|
 |**2026-02-10**|**Toeplitz Based Spectral Methods for Data-driven Dynamical Systems**|Vladimir R. Kostic et.al.|[2602.09791](http://arxiv.org/abs/2602.09791)|null|
@@ -833,6 +846,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Faster-GS: Analyzing and Improving Gaussian Splatting Optimization**|Florian Hahlbohm et.al.|[2602.09999](http://arxiv.org/abs/2602.09999)|null|
 |**2026-02-10**|**Asymptotic analysis of the Gaussian kernel matrix for partially noisy data in high dimensions**|Kensuke Aishima et.al.|[2602.09762](http://arxiv.org/abs/2602.09762)|null|
 |**2026-02-10**|**Directed Information: Estimation, Optimization and Applications in Communications and Causality**|Dor Tsur et.al.|[2602.09711](http://arxiv.org/abs/2602.09711)|null|
 |**2026-02-10**|**Amplitude-Phase Separation toward Optimal and Fast-Forwardable Simulation of Non-Unitary Dynamics**|Qitong Hu et.al.|[2602.09575](http://arxiv.org/abs/2602.09575)|null|
@@ -948,6 +962,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Kelly Betting as Bayesian Model Evaluation: A Framework for Time-Updating Probabilistic Forecasts**|Michael Beuoy et.al.|[2602.09982](http://arxiv.org/abs/2602.09982)|null|
+|**2026-02-10**|**Unbalanced optimal transport for robust longitudinal lesion evolution with registration-aware and appearance-guided priors**|Melika Qahqaie et.al.|[2602.09933](http://arxiv.org/abs/2602.09933)|null|
+|**2026-02-10**|**$p$ -adic symplectic geometry of integrable systems and Weierstrass-Williamson theory II**|Luis Crespo et.al.|[2602.09898](http://arxiv.org/abs/2602.09898)|null|
+|**2026-02-10**|**Schur $σ$-groups of type $(3,3)$ for $p=3$**|Eric Ahlqvist et.al.|[2602.09889](http://arxiv.org/abs/2602.09889)|null|
+|**2026-02-10**|**Spinel: A Post-Quantum Signature Scheme Based on SLn(Fp) Hashing**|Asmaa Cherkaoui et.al.|[2602.09882](http://arxiv.org/abs/2602.09882)|null|
 |**2026-02-10**|**First explicit reciprocity law for unitary Friedberg--Jacquet periods**|Murilo Corato-Zanarella et.al.|[2602.09831](http://arxiv.org/abs/2602.09831)|null|
 |**2026-02-10**|**Homogeneous maximizers of the Blaschke--Santalo-type functionals**|Alexander V. Kolesnikov et.al.|[2602.09818](http://arxiv.org/abs/2602.09818)|null|
 |**2026-02-10**|**Efficient Unsupervised Environment Design through Hierarchical Policy Representation Learning**|Dexun Li et.al.|[2602.09813](http://arxiv.org/abs/2602.09813)|null|
@@ -1126,6 +1145,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Towards Explainable Federated Learning: Understanding the Impact of Differential Privacy**|Júlio Oliveira et.al.|[2602.10100](http://arxiv.org/abs/2602.10100)|null|
+|**2026-02-10**|**CAPID: Context-Aware PII Detection for Question-Answering Systems**|Mariia Ponomarenko et.al.|[2602.10074](http://arxiv.org/abs/2602.10074)|null|
+|**2026-02-10**|**Maximizing Diversity in (near-)Median String Selection**|Diptarka Chakraborty et.al.|[2602.10050](http://arxiv.org/abs/2602.10050)|null|
+|**2026-02-10**|**On the generalization of $g$ -circulant MDS matrices**|Atif Ahmad Khan et.al.|[2602.10028](http://arxiv.org/abs/2602.10028)|null|
+|**2026-02-10**|**METTLE: Efficient Streaming Erasure Code with Peeling Decodability**|Qianru Yu et.al.|[2602.10020](http://arxiv.org/abs/2602.10020)|null|
+|**2026-02-10**|**Trustworthy Agentic AI Requires Deterministic Architectural Boundaries**|Manish Bhattarai et.al.|[2602.09947](http://arxiv.org/abs/2602.09947)|null|
+|**2026-02-10**|**Focus Session: LLM4PQC -- An Agentic Framework for Accurate and Efficient Synthesis of PQC Cores**|Buddhi Perera et.al.|[2602.09919](http://arxiv.org/abs/2602.09919)|null|
+|**2026-02-10**|**The Need for Standardized Evidence Sampling in CMMC Assessments: A Survey-Based Analysis of Assessor Practices**|Logan Therrien et.al.|[2602.09905](http://arxiv.org/abs/2602.09905)|null|
+|**2026-02-10**|**Spinel: A Post-Quantum Signature Scheme Based on SLn(Fp) Hashing**|Asmaa Cherkaoui et.al.|[2602.09882](http://arxiv.org/abs/2602.09882)|null|
 |**2026-02-10**|**From Multi-sig to DLCs: Modern Oracle Designs on Bitcoin**|Giulio Caldarelli et.al.|[2602.09822](http://arxiv.org/abs/2602.09822)|null|
 |**2026-02-10**|**Construction of the full logical Clifford group for high-rate quantum Reed-Muller codes using only transversal and fold-transversal gates**|Theerapat Tansuwannont et.al.|[2602.09788](http://arxiv.org/abs/2602.09788)|null|
 |**2026-02-10**|**QRS: A Rule-Synthesizing Neuro-Symbolic Triad for Autonomous Vulnerability Discovery**|George Tsigkourakos et.al.|[2602.09774](http://arxiv.org/abs/2602.09774)|null|
