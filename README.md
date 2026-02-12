@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight**|Jiayi Zhou et.al.|[2602.11136](http://arxiv.org/abs/2602.11136)|null|
+|**2026-02-11**|**Towards Term-based Verification of Diagrammatic Equivalence**|Julie Cailler et.al.|[2602.11035](http://arxiv.org/abs/2602.11035)|null|
 |**2026-02-11**|**The Neurosymbolic Frontier of Nonuniform Ellipticity: Formalizing Sharp Schauder Theory via Topos-Theoretic Reasoning Models**|Suyash Mishra et.al.|[2602.10632](http://arxiv.org/abs/2602.10632)|null|
 |**2026-02-09**|**Towards Real-World Industrial-Scale Verification: LLM-Driven Theorem Proving on seL4**|Jianyu Zhang et.al.|[2602.08384](http://arxiv.org/abs/2602.08384)|null|
 |**2026-02-06**|**LogicSkills: A Structured Benchmark for Formal Reasoning in Large Language Models**|Brian Rabern et.al.|[2602.06533](http://arxiv.org/abs/2602.06533)|null|
@@ -85,6 +87,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Exploiting the Structure in Tensor Decompositions for Matrix Multiplication**|Manuel Kauers et.al.|[2602.11041](http://arxiv.org/abs/2602.11041)|null|
 |**2026-02-11**|**Simple generators of rational function fields**|Alexander Demin et.al.|[2602.10878](http://arxiv.org/abs/2602.10878)|null|
 |**2026-02-11**|**The Neurosymbolic Frontier of Nonuniform Ellipticity: Formalizing Sharp Schauder Theory via Topos-Theoretic Reasoning Models**|Suyash Mishra et.al.|[2602.10632](http://arxiv.org/abs/2602.10632)|null|
 |**2026-02-11**|**LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization**|Boxiao Wang et.al.|[2602.10576](http://arxiv.org/abs/2602.10576)|null|
@@ -176,6 +179,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**PhyCritic: Multimodal Critic Models for Physical AI**|Tianyi Xiong et.al.|[2602.11124](http://arxiv.org/abs/2602.11124)|null|
 |**2026-02-11**|**The State's Politics of "Fake Data"**|Chuncheng Liu et.al.|[2602.10944](http://arxiv.org/abs/2602.10944)|null|
 |**2026-02-11**|**Connection between $GW$ and Extended Coupled Cluster**|Johannes Tölle et.al.|[2602.10887](http://arxiv.org/abs/2602.10887)|null|
 |**2026-02-11**|**Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics**|Leheng Sheng et.al.|[2602.10885](http://arxiv.org/abs/2602.10885)|null|
@@ -328,6 +332,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Divided powers on abelian varieties**|Bruno Kahn et.al.|[2602.11135](http://arxiv.org/abs/2602.11135)|null|
+|**2026-02-11**|**Solution for the Einstein-Maxwell equations invariant under an $(n - 1)$ -dimensional group of dilations**|Benedito Leandro et.al.|[2602.11115](http://arxiv.org/abs/2602.11115)|null|
+|**2026-02-11**|**The Base Change Of Fundamental Group Schemes**|Lingguang Li et.al.|[2602.11110](http://arxiv.org/abs/2602.11110)|null|
 |**2026-02-11**|**Simply connectedness of Kähler and Riemannian manifolds via spectral estimates**|Francesco Bei et.al.|[2602.11002](http://arxiv.org/abs/2602.11002)|null|
 |**2026-02-11**|**Correlators in the theory of Integral Discriminants**|A. Morozov et.al.|[2602.10981](http://arxiv.org/abs/2602.10981)|null|
 |**2026-02-11**|**Parameterized Complexity of Finding a Maximum Common Vertex Subgraph Without Isolated Vertices**|Palash Dey et.al.|[2602.10948](http://arxiv.org/abs/2602.10948)|null|
@@ -519,6 +526,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**General Flexible $f$ -divergence for Challenging Offline RL Datasets with Low Stochasticity and Diverse Behavior Policies**|Jianxun Wang et.al.|[2602.11087](http://arxiv.org/abs/2602.11087)|null|
+|**2026-02-11**|**Deep Neural Network-Enhanced Frequency-Constrained Optimal Power Flow with Multi-Governor Dynamics**|Fan Jiang et.al.|[2602.11063](http://arxiv.org/abs/2602.11063)|null|
+|**2026-02-11**|**A Robust Optimization Approach for Regenerator Placement in Fault-Tolerant Networks Under Discrete Cost Uncertainty**|Mohammad Khosravi et.al.|[2602.11058](http://arxiv.org/abs/2602.11058)|null|
+|**2026-02-11**|**Divide, Harmonize, Then Conquer It: Shooting Multi-Commodity Flow Problems with Multimodal Language Models**|Xinyu Yuan et.al.|[2602.11057](http://arxiv.org/abs/2602.11057)|null|
 |**2026-02-11**|**Quantum Optimization in Loc(Q)ation Science: QUBO Formulations, Benchmark Problems, and a Computational Study**|Felix P. Broesamle et.al.|[2602.10951](http://arxiv.org/abs/2602.10951)|null|
 |**2026-02-11**|**Implicit representations via the polynomial method**|Jean Cardinal et.al.|[2602.10922](http://arxiv.org/abs/2602.10922)|null|
 |**2026-02-11**|**Transport, Don't Generate: Deterministic Geometric Flows for Combinatorial Optimization**|Benjy Friedmann et.al.|[2602.10794](http://arxiv.org/abs/2602.10794)|null|
@@ -686,6 +697,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Solution for the Einstein-Maxwell equations invariant under an $(n - 1)$ -dimensional group of dilations**|Benedito Leandro et.al.|[2602.11115](http://arxiv.org/abs/2602.11115)|null|
+|**2026-02-11**|**Statistical Learning Analysis of Physics-Informed Neural Networks**|David A. Barajas-Solano et.al.|[2602.11097](http://arxiv.org/abs/2602.11097)|null|
+|**2026-02-11**|**Direct Learning of Calibration-Aware Uncertainty for Neural PDE Surrogates**|Carlos Stein Brito et.al.|[2602.11090](http://arxiv.org/abs/2602.11090)|null|
+|**2026-02-11**|**Stabilizing chaotic dynamical system reproduction in reservoir computing**|Satoshi Oishi et.al.|[2602.11069](http://arxiv.org/abs/2602.11069)|null|
+|**2026-02-11**|**Weighted Diophantine approximation on manifolds**|Victor Beresnevich et.al.|[2602.11045](http://arxiv.org/abs/2602.11045)|null|
+|**2026-02-11**|**Induced dynamics and quasifactors for minimal equicontinuous actions on Stone spaces**|María Isabel Cortez et.al.|[2602.11034](http://arxiv.org/abs/2602.11034)|null|
 |**2026-02-11**|**Relative Chaos for $C_0$ -Semigroups Beyond Topological Notions**|El-Mehdi Nafia et.al.|[2602.11009](http://arxiv.org/abs/2602.11009)|null|
 |**2026-02-11**|**Cutoff Sobolev inequalities for local and non-local $p$ -energies on metric measure spaces**|Meng Yang et.al.|[2602.10990](http://arxiv.org/abs/2602.10990)|null|
 |**2026-02-11**|**A generalization of Frenkel's formula**|Shmuel Friedland et.al.|[2602.10962](http://arxiv.org/abs/2602.10962)|null|
@@ -884,6 +901,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Drift-Randomized Milstein-Galerkin Finite Element Method for Semilinear Stochastic Evolution Equations**|Xiao Qi et.al.|[2602.11109](http://arxiv.org/abs/2602.11109)|null|
 |**2026-02-11**|**Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation**|Deyi Kong et.al.|[2602.10905](http://arxiv.org/abs/2602.10905)|null|
 |**2026-02-11**|**Hybrid Methods for Friedrichs Systems with Application to Scalar and Vector Diffusion-Advection Problems**|Daniele Di Pietro et.al.|[2602.10890](http://arxiv.org/abs/2602.10890)|null|
 |**2026-02-11**|**bound-preserving Adaptive Time-Stepping Method with Energy Stability for Simulating Compressible Gas Flow in Poroelastic Media**|Huangxin Chen et.al.|[2602.10803](http://arxiv.org/abs/2602.10803)|null|
@@ -1010,6 +1028,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Divided powers on abelian varieties**|Bruno Kahn et.al.|[2602.11135](http://arxiv.org/abs/2602.11135)|null|
+|**2026-02-11**|**Constrained Fiducial Inference for Gaussian Models**|Hank Flury et.al.|[2602.11080](http://arxiv.org/abs/2602.11080)|null|
+|**2026-02-11**|**Weighted Diophantine approximation on manifolds**|Victor Beresnevich et.al.|[2602.11045](http://arxiv.org/abs/2602.11045)|null|
+|**2026-02-11**|**Bayesian inference for tidal heating with extreme mass ratio inspirals**|Zhong-Wu Xia et.al.|[2602.11039](http://arxiv.org/abs/2602.11039)|null|
+|**2026-02-11**|**Endo-Twisted Conjugacy and Outer Fixed Points in Solvable Baumslag--Solitar Groups**|Mallika Roy et.al.|[2602.11031](http://arxiv.org/abs/2602.11031)|null|
 |**2026-02-11**|**Rational Points in Hyperbolic Regions and Multiplicative Diophantine Approximation on Manifolds**|Sam Chow et.al.|[2602.11012](http://arxiv.org/abs/2602.11012)|null|
 |**2026-02-11**|**Golombic and Levine sequences**|Johan Claes et.al.|[2602.10992](http://arxiv.org/abs/2602.10992)|null|
 |**2026-02-11**|**Variational Optimality of Föllmer Processes in Generative Diffusions**|Yifan Chen et.al.|[2602.10989](http://arxiv.org/abs/2602.10989)|null|
@@ -1203,6 +1226,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Reed-Muller Error-Correction Code Encoder for SFQ-to-CMOS Interface Circuits**|Yerzhan Mustafa et.al.|[2602.11140](http://arxiv.org/abs/2602.11140)|null|
+|**2026-02-11**|**Vulnerabilities in Partial TEE-Shielded LLM Inference with Precomputed Noise**|Abhishek Saini et.al.|[2602.11088](http://arxiv.org/abs/2602.11088)|null|
+|**2026-02-11**|**Token-Efficient Change Detection in LLM APIs**|Timothée Chauvin et.al.|[2602.11083](http://arxiv.org/abs/2602.11083)|null|
+|**2026-02-11**|**IU-GUARD: Privacy-Preserving Spectrum Coordination for Incumbent Users under Dynamic Spectrum Sharing**|Shaoyu Li et.al.|[2602.11023](http://arxiv.org/abs/2602.11023)|null|
+|**2026-02-11**|**Mask-Based Window-Level Insider Threat Detection for Campaign Discovery**|Jericho Cain et.al.|[2602.11019](http://arxiv.org/abs/2602.11019)|null|
 |**2026-02-11**|**CVPL: A Geometric Framework for Post-Hoc Linkage Risk Assessment in Protected Tabular Data**|Valery Khvatov et.al.|[2602.11015](http://arxiv.org/abs/2602.11015)|null|
 |**2026-02-11**|**Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System**|Zhenhua Zou et.al.|[2602.10915](http://arxiv.org/abs/2602.10915)|null|
 |**2026-02-11**|**Resilient Alerting Protocols for Blockchains**|Marwa Moullem et.al.|[2602.10892](http://arxiv.org/abs/2602.10892)|null|
