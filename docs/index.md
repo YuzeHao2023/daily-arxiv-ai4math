@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.13
+## Updated on 2026.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Formal Methods & Automated Reasoning
@@ -74,6 +74,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Think like a Scientist: Physics-guided LLM Agent for Equation Discovery**|Jianke Yang et.al.|[2602.12259](http://arxiv.org/abs/2602.12259)|null|
 |**2026-02-12**|**A critical assessment of bonding descriptors for predicting materials properties**|Aakash Ashok Naik et.al.|[2602.12109](http://arxiv.org/abs/2602.12109)|null|
 |**2026-02-11**|**Gröbner bases of Burchnall-Chaundy ideals for ordinary differential operators**|Antonio Jiménez-Pastor et.al.|[2602.11402](http://arxiv.org/abs/2602.11402)|null|
 |**2026-02-11**|**Exploiting the Structure in Tensor Decompositions for Matrix Multiplication**|Manuel Kauers et.al.|[2602.11041](http://arxiv.org/abs/2602.11041)|null|
@@ -166,6 +167,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
+|**2026-02-12**|**Sci-CoE: Co-evolving Scientific Reasoning LLMs via Geometric Consensus with Sparse Supervision**|Xiaohan He et.al.|[2602.12164](http://arxiv.org/abs/2602.12164)|null|
 |**2026-02-12**|**Capability-Oriented Training Induced Alignment Risk**|Yujun Zhou et.al.|[2602.12124](http://arxiv.org/abs/2602.12124)|null|
 |**2026-02-12**|**Affordance-Graphed Task Worlds: Self-Evolving Task Generation for Scalable Embodied Learning**|Xiang Liu et.al.|[2602.12065](http://arxiv.org/abs/2602.12065)|null|
 |**2026-02-12**|**When Should LLMs Be Less Specific? Selective Abstraction for Reliable Long-Form Text Generation**|Shani Goren et.al.|[2602.11908](http://arxiv.org/abs/2602.11908)|null|
@@ -324,6 +327,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Tininess and right adjoints to exponentials**|Enrique Ruiz Hernández et.al.|[2602.12239](http://arxiv.org/abs/2602.12239)|null|
+|**2026-02-12**|**First variation of flat traces on negatively curved surfaces**|Hy Lam et.al.|[2602.12230](http://arxiv.org/abs/2602.12230)|null|
+|**2026-02-12**|**On real algebraic realization of round fold maps of codimension $-1$**|Naoki Kitazawa et.al.|[2602.12211](http://arxiv.org/abs/2602.12211)|null|
+|**2026-02-12**|**A Framework for Spatial Quantum Sensing**|Luís Bugalho et.al.|[2602.12193](http://arxiv.org/abs/2602.12193)|null|
+|**2026-02-12**|**Aleksandrov reflection for Geometric Flows in Hyperbolic Spaces**|Theodora Bourni et.al.|[2602.12186](http://arxiv.org/abs/2602.12186)|null|
 |**2026-02-12**|**Local Integrable Symmetries of Diffieties**|François Ollivier et.al.|[2602.12103](http://arxiv.org/abs/2602.12103)|null|
 |**2026-02-12**|**Weak stability conditions on coherent systems of genus four curves**|Nicolás Vilches et.al.|[2602.12076](http://arxiv.org/abs/2602.12076)|null|
 |**2026-02-12**|**Anomaly Reparametrization of the Ligon--Schaaf Regularization in the Kepler problem**|Li-Chun Hsu et.al.|[2602.12034](http://arxiv.org/abs/2602.12034)|null|
@@ -526,6 +534,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Taming Subpacketization without Sacrificing Communication: A Packet Type-based Framework for D2D Coded Caching**|Xiang Zhang et.al.|[2602.12220](http://arxiv.org/abs/2602.12220)|null|
+|**2026-02-12**|**The colored knapsack problem: structural properties and exact algorithms**|Fabio Ciccarelli et.al.|[2602.12214](http://arxiv.org/abs/2602.12214)|null|
 |**2026-02-12**|**The Balanced Up-Down Walk**|Hugo A. Akitaya et.al.|[2602.11993](http://arxiv.org/abs/2602.11993)|null|
 |**2026-02-12**|**Mixed-Integer Programming for Change-point Detection**|Apoorva Narula et.al.|[2602.11947](http://arxiv.org/abs/2602.11947)|null|
 |**2026-02-12**|**Benchmarking Classical and Quantum Optimization Approaches for Rider-Order Assignment**|Tharrmashastha SAPV et.al.|[2602.11895](http://arxiv.org/abs/2602.11895)|null|
@@ -705,6 +715,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et.al.|[2602.12274](http://arxiv.org/abs/2602.12274)|null|
+|**2026-02-12**|**Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs**|Yongcun Song et.al.|[2602.12273](http://arxiv.org/abs/2602.12273)|null|
+|**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
+|**2026-02-12**|**First variation of flat traces on negatively curved surfaces**|Hy Lam et.al.|[2602.12230](http://arxiv.org/abs/2602.12230)|null|
+|**2026-02-12**|**A Discrete-Time Model of the Academic Pipeline in Mathematical Sciences with Constrained Hiring in the United States**|Oluwatosin Babasola et.al.|[2602.12188](http://arxiv.org/abs/2602.12188)|null|
+|**2026-02-12**|**Twisted Pollicott--Ruelle resonances and zeta function at zero on surfaces**|Tristan Humbert et.al.|[2602.12166](http://arxiv.org/abs/2602.12166)|null|
+|**2026-02-12**|**Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions**|Yashas Shende et.al.|[2602.12139](http://arxiv.org/abs/2602.12139)|null|
 |**2026-02-12**|**Liquidation Dynamics in DeFi and the Role of Transaction Fees**|Agathe Sadeghi et.al.|[2602.12104](http://arxiv.org/abs/2602.12104)|null|
 |**2026-02-12**|**Primordial Black Hole Formation in Dust-Radiation Bouncing Cosmologies**|Xuan Ye et.al.|[2602.12057](http://arxiv.org/abs/2602.12057)|null|
 |**2026-02-12**|**Stability of Phase-Locked States in Signed Kuramoto Networks: Structure versus Adaptation**|Jaeyoung Yoon et.al.|[2602.11981](http://arxiv.org/abs/2602.11981)|null|
@@ -1048,6 +1065,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Holographic Equidistribution**|Nico Cooper et.al.|[2602.12265](http://arxiv.org/abs/2602.12265)|null|
+|**2026-02-12**|**Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems**|Sofia Mäkinen et.al.|[2602.12234](http://arxiv.org/abs/2602.12234)|null|
+|**2026-02-12**|**Bayesian inference for the automultinomial model with an application to landcover data**|Maria Paula Duenas-Herrera et.al.|[2602.12216](http://arxiv.org/abs/2602.12216)|null|
+|**2026-02-12**|**On the dynamical Galois group of certain affine polynomials in positive characteristic**|Andrea Ferraguti et.al.|[2602.12213](http://arxiv.org/abs/2602.12213)|null|
+|**2026-02-12**|**The higher connectivity at infinity of mapping class groups**|Michael Mihalik et.al.|[2602.12191](http://arxiv.org/abs/2602.12191)|null|
 |**2026-02-12**|**Series involving central binomial coefficients and harmonic numbers of order 2**|Zhi-Wei Sun et.al.|[2602.12091](http://arxiv.org/abs/2602.12091)|null|
 |**2026-02-12**|**Medium effects on light clusters from heavy-ion collisions within a relativistic mean-field description**|Tiago Custódio et.al.|[2602.11996](http://arxiv.org/abs/2602.11996)|null|
 |**2026-02-12**|**Strong convergence of random representations of free products of finite groups**|Marco Barbieri et.al.|[2602.11905](http://arxiv.org/abs/2602.11905)|null|
@@ -1254,6 +1276,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Legitimate Overrides in Decentralized Protocols**|Oghenekaro Elem et.al.|[2602.12260](http://arxiv.org/abs/2602.12260)|null|
+|**2026-02-12**|**Community Concealment from Unsupervised Graph Learning-Based Clustering**|Dalyapraz Manatova et.al.|[2602.12250](http://arxiv.org/abs/2602.12250)|null|
+|**2026-02-12**|**Keeping a Secret Requires a Good Memory: Space Lower-Bounds for Private Algorithms**|Alessandro Epasto et.al.|[2602.12209](http://arxiv.org/abs/2602.12209)|null|
+|**2026-02-12**|**MalTool: Malicious Tool Attacks on LLM Agents**|Yuepeng Hu et.al.|[2602.12194](http://arxiv.org/abs/2602.12194)|null|
+|**2026-02-12**|**Unknown Attack Detection in IoT Networks using Large Language Models: A Robust, Data-efficient Approach**|Shan Ali et.al.|[2602.12183](http://arxiv.org/abs/2602.12183)|null|
+|**2026-02-12**|**BlackCATT: Black-box Collusion Aware Traitor Tracing in Federated Learning**|Elena Rodríguez-Lois et.al.|[2602.12138](http://arxiv.org/abs/2602.12138)|null|
 |**2026-02-12**|**MedExChain: Enabling Secure and Efffcient PHR Sharing Across Heterogeneous Blockchains**|Yongyang Lv et.al.|[2602.12106](http://arxiv.org/abs/2602.12106)|null|
 |**2026-02-12**|**DeepSight: An All-in-One LM Safety Toolkit**|Bo Zhang et.al.|[2602.12092](http://arxiv.org/abs/2602.12092)|null|
 |**2026-02-12**|**Evaluation of Security-Induced Latency on 5G RAN Interfaces and User Plane Communication**|Sotiris Michaelides et.al.|[2602.12059](http://arxiv.org/abs/2602.12059)|null|
