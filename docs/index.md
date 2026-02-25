@@ -230,6 +230,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**The Diffusion Duality, Chapter II: $Ψ$ -Samplers and Efficient Curriculum**|Justin Deschenaux et.al.|[2602.21185](http://arxiv.org/abs/2602.21185)|null|
+|**2026-02-24**|**HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning**|Quanxin Shou et.al.|[2602.21157](http://arxiv.org/abs/2602.21157)|null|
 |**2026-02-24**|**VAUQ: Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation**|Seongheon Park et.al.|[2602.21054](http://arxiv.org/abs/2602.21054)|null|
 |**2026-02-24**|**OCR-Agent: Agentic OCR with Capability and Memory Reflection**|Shimin Wen et.al.|[2602.21053](http://arxiv.org/abs/2602.21053)|null|
 |**2026-02-24**|**Counterfactual Simulation Training for Chain-of-Thought Faithfulness**|Peter Hase et.al.|[2602.20710](http://arxiv.org/abs/2602.20710)|null|
@@ -452,6 +454,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Magnetic equations on the Heisenberg group: symmetries, solutions and the inverse problem of the calculus of variations**|Gabriela Ovando et.al.|[2602.21187](http://arxiv.org/abs/2602.21187)|null|
+|**2026-02-24**|**On Gluing Data, Finite Ringed Spaces and schemes**|Rita Fioresi et.al.|[2602.21184](http://arxiv.org/abs/2602.21184)|null|
+|**2026-02-24**|**Sheaves on Graphs and their Differential Calculi**|Rita Fioresi et.al.|[2602.21176](http://arxiv.org/abs/2602.21176)|null|
 |**2026-02-24**|**Integral Inequalities and Rigidity for $V$ -Static-Type Equations on Manifolds with Boundary**|Maria Andrade et.al.|[2602.21075](http://arxiv.org/abs/2602.21075)|null|
 |**2026-02-24**|**Capillary minimal slicing and scalar curvature rigidity**|Dongyeong Ko et.al.|[2602.21071](http://arxiv.org/abs/2602.21071)|null|
 |**2026-02-24**|**On the Semi-Abelianness of Affine Group Schemes**|David Forsman et.al.|[2602.21060](http://arxiv.org/abs/2602.21060)|null|
@@ -759,6 +764,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Statistical Query Lower Bounds for Smoothed Agnostic Learning**|Ilias Diakonikolas et.al.|[2602.21191](http://arxiv.org/abs/2602.21191)|null|
+|**2026-02-24**|**Quantum Approximate Optimization for Decoding of Low-Density Parity-Check Codes**|Krishnakanta Barik et.al.|[2602.21124](http://arxiv.org/abs/2602.21124)|null|
+|**2026-02-24**|**Optimizing Occupancy Sensor Placement in Smart Environments**|Hao Lu et.al.|[2602.21098](http://arxiv.org/abs/2602.21098)|null|
 |**2026-02-24**|**On the non-uniformity of the 2026 FIFA World Cup draw**|László Csató et.al.|[2602.21029](http://arxiv.org/abs/2602.21029)|null|
 |**2026-02-24**|**Robinson spaces and their representation in low-dimensional metric spaces**|Francisco Arrepol et.al.|[2602.21023](http://arxiv.org/abs/2602.21023)|null|
 |**2026-02-24**|**Topology-Aware Integrated Communication, Sensing, and Power Transfer for SAGIN**|Han Yu et.al.|[2602.20908](http://arxiv.org/abs/2602.20908)|null|
@@ -1029,6 +1037,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Invariance Principle and dynamics**|François Ledrappier et.al.|[2602.21131](http://arxiv.org/abs/2602.21131)|null|
 |**2026-02-24**|**Oppenheim--Schur inequalities for causal products**|Dominique Guillot et.al.|[2602.21056](http://arxiv.org/abs/2602.21056)|null|
 |**2026-02-24**|**Linear preserver problems in matrix positivity theory**|Projesh Nath Choudhury et.al.|[2602.21030](http://arxiv.org/abs/2602.21030)|null|
 |**2026-02-24**|**Structure and Spectrum of Nonergodic Nilsystems**|Felipe Hernández et.al.|[2602.21021](http://arxiv.org/abs/2602.21021)|null|
@@ -1348,6 +1357,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Variants of Raviart-Thomas mixed elements for curved domains using straight-edged tetrahedra**|Vittoriano Ruas et.al.|[2602.21197](http://arxiv.org/abs/2602.21197)|null|
+|**2026-02-24**|**A Novel Explicit Filter for the Approximate Deconvolution in Large-Eddy Simulation on General Unstructured Grids: A posteriori tests on highly stretched grids**|Mohammad Bagher Molaei et.al.|[2602.21166](http://arxiv.org/abs/2602.21166)|null|
 |**2026-02-24**|**MAST: A Multi-fidelity Augmented Surrogate model via Spatial Trust-weighting**|Ahmed Mohamed Eisa Nasr et.al.|[2602.20974](http://arxiv.org/abs/2602.20974)|null|
 |**2026-02-24**|**Convergence analysis of $L^{p+1}$ -normalized gradient flow for action ground state of nonlinear Schrödinger equation**|Wei Liu et.al.|[2602.20820](http://arxiv.org/abs/2602.20820)|null|
 |**2026-02-23**|**The largest 5th pivot may be the root of a 61st degree polynomial**|James Chen et.al.|[2602.20390](http://arxiv.org/abs/2602.20390)|null|
@@ -1544,6 +1555,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**The JWST Resolved Stellar Populations Early Release Science Program. IX. The RR Lyrae Population in WLM with HST and JWST**|Catherine M. Slaughter et.al.|[2602.21205](http://arxiv.org/abs/2602.21205)|null|
+|**2026-02-24**|**cyclinbayes: Bayesian Causal Discovery with Linear Non-Gaussian Directed Acyclic and Cyclic Graphical Models**|Robert Lee et.al.|[2602.21170](http://arxiv.org/abs/2602.21170)|null|
+|**2026-02-24**|**Potential Relation Between the Riemann Zeta Function and the Polynomial Function $F$ of the Generalized Erdős--Straus Conjecture, Subject to its Analytic Continuation**|Philemon Urbain Mballa et.al.|[2602.21112](http://arxiv.org/abs/2602.21112)|null|
 |**2026-02-24**|**Elementary local representation densities at all primes via lifting recursions**|Samuel Griffiths et.al.|[2602.21070](http://arxiv.org/abs/2602.21070)|null|
 |**2026-02-24**|**Toward the $p$-adic Hodge parameters in the potentially crystalline representations of $\mathrm{GL}_n$**|Yiqin He et.al.|[2602.21063](http://arxiv.org/abs/2602.21063)|null|
 |**2026-02-24**|**Torsion points on $\rm{GL}_2$ -type abelian varieties**|Jessica Alessandrì et.al.|[2602.21047](http://arxiv.org/abs/2602.21047)|null|
@@ -1855,6 +1869,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**|Xinfeng Li et.al.|[2602.21127](http://arxiv.org/abs/2602.21127)|null|
+|**2026-02-24**|**Quantum Approximate Optimization for Decoding of Low-Density Parity-Check Codes**|Krishnakanta Barik et.al.|[2602.21124](http://arxiv.org/abs/2602.21124)|null|
 |**2026-02-24**|**Error correction with brickwork Clifford circuits**|Twan Kroll et.al.|[2602.20900](http://arxiv.org/abs/2602.20900)|null|
 |**2026-02-24**|**SoK: Agentic Skills -- Beyond Tool Use in LLM Agents**|Yanna Jiang et.al.|[2602.20867](http://arxiv.org/abs/2602.20867)|null|
 |**2026-02-24**|**A Secure and Interoperable Architecture for Electronic Health Record Access Control and Sharing**|Tayeb Kenaza et.al.|[2602.20830](http://arxiv.org/abs/2602.20830)|null|
