@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Enhancing Framingham Cardiovascular Risk Score Transparency through Logic-Based XAI**|Emannuel L. de A. Bezerra et.al.|[2602.22149](http://arxiv.org/abs/2602.22149)|null|
 |**2026-02-24**|**Linear Reasoning vs. Proof by Cases: Obstacles for Large Language Models in FOL Problem Solving**|Yuliang Ji et.al.|[2602.20973](http://arxiv.org/abs/2602.20973)|null|
 |**2026-02-25**|**Rethinking Clause Management for CDCL SAT Solvers**|Yalun Cai et.al.|[2602.20829](http://arxiv.org/abs/2602.20829)|null|
 |**2026-02-23**|**Entanglement Barriers from Computational Complexity: Matrix-Product-State Approach to Satisfiability**|Tim Pokart et.al.|[2602.20299](http://arxiv.org/abs/2602.20299)|null|
@@ -232,6 +233,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**SocialPulse: On-Device Detection of Social Interactions in Naturalistic Settings Using Smartwatch Multimodal Sensing**|Md Sabbir Ahmed et.al.|[2602.22085](http://arxiv.org/abs/2602.22085)|null|
+|**2026-02-25**|**ViSTAR: Virtual Skill Training with Augmented Reality with 3D Avatars and LLM coaching agent**|Chunggi Lee et.al.|[2602.22077](http://arxiv.org/abs/2602.22077)|null|
 |**2026-02-25**|**MESA Isochrones and Stellar Tracks. II. Models with alpha-enhanced chemical composition**|A Dotter et.al.|[2602.22012](http://arxiv.org/abs/2602.22012)|null|
 |**2026-02-25**|**A universal bound on the blow-up rate for the focusing mass-critical nonlinear Schrödinger equation**|Beomjong Kwak et.al.|[2602.21968](http://arxiv.org/abs/2602.21968)|null|
 |**2026-02-25**|**Dynamical 4-D Gauss-Bonnet action from matter-graviton interactions in a curved background**|Apurv Keer et.al.|[2602.21822](http://arxiv.org/abs/2602.21822)|null|
@@ -465,6 +468,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**A characterization of projective space via lengths of extremal rays**|Osamu Fujino et.al.|[2602.22192](http://arxiv.org/abs/2602.22192)|null|
+|**2026-02-25**|**Vanishing of local cohomology in unramified mixed characteristic**|Manav Batavia et.al.|[2602.22191](http://arxiv.org/abs/2602.22191)|null|
+|**2026-02-25**|**Perfectoid unitary Shimura varieties and $p$ -adic Eichler-Shimura map I**|Ruishen Zhao et.al.|[2602.22189](http://arxiv.org/abs/2602.22189)|null|
+|**2026-02-25**|**Pure extension of the theta divisor over the moduli space of abelian varieties**|Ana María Botero et.al.|[2602.22162](http://arxiv.org/abs/2602.22162)|null|
 |**2026-02-25**|**On combinatorial bounds for the total Tjurina numbers of certain curves and surfaces with isolated singularities**|Piotr Pokora et.al.|[2602.21982](http://arxiv.org/abs/2602.21982)|null|
 |**2026-02-25**|**Real analytic solutions to the divergence equation**|Chi Hin Chan et.al.|[2602.21925](http://arxiv.org/abs/2602.21925)|null|
 |**2026-02-25**|**The cyclosyntomic regulator of a number field**|Tess Bouis et.al.|[2602.21894](http://arxiv.org/abs/2602.21894)|null|
@@ -785,6 +792,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**The Lens of Abelian Embeddings**|Dor Minzer et.al.|[2602.22183](http://arxiv.org/abs/2602.22183)|null|
+|**2026-02-25**|**Applying a Random-Key Optimizer on Mixed Integer Programs**|Antonio A. Chaves et.al.|[2602.22173](http://arxiv.org/abs/2602.22173)|null|
+|**2026-02-25**|**Robust Permutation Flowshops Under Budgeted Uncertainty**|Noam Goldberg et.al.|[2602.22110](http://arxiv.org/abs/2602.22110)|null|
+|**2026-02-25**|**A Polyhedral Study on Unit Commitment with a Single Type of Binary Variables**|Bin Tian et.al.|[2602.22058](http://arxiv.org/abs/2602.22058)|null|
 |**2026-02-25**|**Symbols frequencies in the Thue--Morse word in base $3/2$ and related conjectures**|Julien Cassaigne et.al.|[2602.21895](http://arxiv.org/abs/2602.21895)|null|
 |**2026-02-25**|**Steiner Forest for $H$ -Subgraph-Free Graphs**|Tala Eagling-Vose et.al.|[2602.21859](http://arxiv.org/abs/2602.21859)|null|
 |**2026-02-25**|**Concentration for random Euclidean combinatorial optimization**|Matteo D'Achille et.al.|[2602.21851](http://arxiv.org/abs/2602.21851)|null|
@@ -1068,6 +1079,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach**|Nathalie C. Pinheiro et.al.|[2602.22188](http://arxiv.org/abs/2602.22188)|null|
+|**2026-02-25**|**NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training**|Dengdi Sun et.al.|[2602.22059](http://arxiv.org/abs/2602.22059)|null|
 |**2026-02-25**|**Target controllability for a minimum time problem in a trait-structured chemostat model**|Claudia Alvarez-Latuz et.al.|[2602.21999](http://arxiv.org/abs/2602.21999)|null|
 |**2026-02-25**|**Solving stiff dark matter equations via Jacobian Normalization with Physics-Informed Neural Networks**|M. P. Bento et.al.|[2602.21988](http://arxiv.org/abs/2602.21988)|null|
 |**2026-02-25**|**Subspace gradient descent method for linear tensor equations**|Martina Iannacito et.al.|[2602.21974](http://arxiv.org/abs/2602.21974)|null|
@@ -1398,6 +1411,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Tempered Christoffel-Weighted Polynomial Chaos Expansion for Resilience-Oriented Uncertainty Quantification**|Mahsa Ebadat-Parast et.al.|[2602.22133](http://arxiv.org/abs/2602.22133)|null|
+|**2026-02-25**|**Matrix Perturbation Theory in the Tangent Space of Isospectral Matrices**|Francesco Hrobat et.al.|[2602.22084](http://arxiv.org/abs/2602.22084)|null|
 |**2026-02-25**|**The Error of Deep Operator Networks Is the Sum of Its Parts: Branch-Trunk and Mode Error Decompositions**|Alexander Heinlein et.al.|[2602.21910](http://arxiv.org/abs/2602.21910)|null|
 |**2026-02-25**|**Tacmap: Bridging the Tactile Sim-to-Real Gap via Geometry-Consistent Penetration Depth Map**|Lei Su et.al.|[2602.21625](http://arxiv.org/abs/2602.21625)|null|
 |**2026-02-25**|**Convergence Analysis of a Linear, Unconditionally Energy-Stable SAV Finite Element Method for the Cahn-Hilliard Equation**|Na Li et.al.|[2602.21574](http://arxiv.org/abs/2602.21574)|null|
@@ -1600,6 +1615,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Side lengths of cubes with vertices in $\mathbb Z^n$**|Christian Bernert et.al.|[2602.22202](http://arxiv.org/abs/2602.22202)|null|
+|**2026-02-25**|**Perfectoid unitary Shimura varieties and $p$ -adic Eichler-Shimura map I**|Ruishen Zhao et.al.|[2602.22189](http://arxiv.org/abs/2602.22189)|null|
+|**2026-02-25**|**Around homogeneity**|Peter J. Cameron et.al.|[2602.22181](http://arxiv.org/abs/2602.22181)|null|
+|**2026-02-25**|**Estimates for Character Sums in Finite Fields, $\mathbb{F}_{p^n}$**|Aishik Chattopadhyay et.al.|[2602.22167](http://arxiv.org/abs/2602.22167)|null|
+|**2026-02-25**|**Similitudes over fields with I^4=0**|M. Archita et.al.|[2602.22147](http://arxiv.org/abs/2602.22147)|null|
+|**2026-02-25**|**Second moment of $\textrm{GL(3)} \times \textrm{GL(2)}$ $L$ --functions**|Sumit Kumar et.al.|[2602.22127](http://arxiv.org/abs/2602.22127)|null|
+|**2026-02-25**|**Quadratic Equations over Graph Products and the Exponent of Periodicity**|Volker Diekert et.al.|[2602.22123](http://arxiv.org/abs/2602.22123)|null|
+|**2026-02-25**|**On the emergence of quantum mechanics from stochastic processes**|Jason Doukas et.al.|[2602.22095](http://arxiv.org/abs/2602.22095)|null|
+|**2026-02-25**|**On a Cauchy theorem for finite skew braces**|Marco Damele Vicent Pérez Calabuig et.al.|[2602.22080](http://arxiv.org/abs/2602.22080)|null|
+|**2026-02-25**|**AutoSew: A Geometric Approach to Stitching Prediction with Graph Neural Networks**|Pablo Ríos-Navarro et.al.|[2602.22052](http://arxiv.org/abs/2602.22052)|null|
 |**2026-02-25**|**IGR J12580+0134: A Candidate for Repeating Partial Tidal Disruption Events Supported by Multi-Wavelength Observations**|Po Ma et.al.|[2602.22040](http://arxiv.org/abs/2602.22040)|null|
 |**2026-02-25**|**Discovering new photovoltaics using optimal transport theory**|Matthew A. H. Walker et.al.|[2602.22036](http://arxiv.org/abs/2602.22036)|null|
 |**2026-02-25**|**Function-Space Empirical Bayes Regularisation with Student's t Priors**|Pengcheng Hao et.al.|[2602.22015](http://arxiv.org/abs/2602.22015)|null|
@@ -1924,6 +1949,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Hybrid Consensus with Quantum Sybil Resistance**|Dar Gilboa et.al.|[2602.22195](http://arxiv.org/abs/2602.22195)|null|
+|**2026-02-25**|**UC-Secure Star DKG for Non-Exportable Key Shares with VSS-Free Enforcement**|Vipin Singh Sehrawat et.al.|[2602.22187](http://arxiv.org/abs/2602.22187)|null|
+|**2026-02-25**|**Secure Semantic Communications via AI Defenses: Fundamentals, Solutions, and Future Directions**|Lan Zhang et.al.|[2602.22134](http://arxiv.org/abs/2602.22134)|null|
+|**2026-02-25**|**Enabling End-to-End APT Emulation in Industrial Environments: Design and Implementation of the SIMPLE-ICS Testbed**|Yogha Restu Pramadi et.al.|[2602.22082](http://arxiv.org/abs/2602.22082)|null|
+|**2026-02-25**|**Maximal Recoverability: A Nexus of Coding Theory**|Joshua Brakensiek et.al.|[2602.22042](http://arxiv.org/abs/2602.22042)|null|
 |**2026-02-25**|**A Critical Look into Threshold Homomorphic Encryption for Private Average Aggregation**|Miguel Morona-Mínguez et.al.|[2602.22037](http://arxiv.org/abs/2602.22037)|null|
 |**2026-02-25**|**APFuzz: Towards Automatic Greybox Protocol Fuzzing**|Yu Wang et.al.|[2602.21892](http://arxiv.org/abs/2602.21892)|null|
 |**2026-02-25**|**Resilient Federated Chain: Transforming Blockchain Consensus into an Active Defense Layer for Federated Learning**|Mario García-Márquez et.al.|[2602.21841](http://arxiv.org/abs/2602.21841)|null|
