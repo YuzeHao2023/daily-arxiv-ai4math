@@ -483,6 +483,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Copy-cup Gates in Tensor Products of Group Algebra Codes**|Ryan Tiew et.al.|[2602.23307](http://arxiv.org/abs/2602.23307)|null|
 |**2026-02-26**|**Toric schemes and integral models for Shimura varieties with $Γ_1(p)$ -type level**|Georgios Pappas et.al.|[2602.23245](http://arxiv.org/abs/2602.23245)|null|
 |**2026-02-26**|**Moduli of sheaves on hyperkähler manifolds**|Kieran G. O'Grady et.al.|[2602.23194](http://arxiv.org/abs/2602.23194)|null|
 |**2026-02-26**|**Properties of hypersurface singular sets of solutions to the $σ_k$ -Yamabe equation in the negative cone**|Jonah A. J. Duncan et.al.|[2602.23190](http://arxiv.org/abs/2602.23190)|null|
@@ -817,6 +818,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Signal Temporal Logic Verification and Synthesis Using Deep Reachability Analysis and Layered Control Architecture**|Joonwon Choi et.al.|[2602.23313](http://arxiv.org/abs/2602.23313)|null|
 |**2026-02-26**|**Coalgebraic analysis of social systems**|Nima Motamed et.al.|[2602.23211](http://arxiv.org/abs/2602.23211)|null|
 |**2026-02-26**|**Robustness of Persistent Topological Features and Minimum Homological Cuts**|Pepijn Roos Hoefgeest et.al.|[2602.23154](http://arxiv.org/abs/2602.23154)|null|
 |**2026-02-26**|**Simultaneous separation in bounded degree trees**|Sagi Snir et.al.|[2602.23096](http://arxiv.org/abs/2602.23096)|null|
@@ -1114,6 +1116,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**A strengthening of the dimensional Brunn-Minkowski conjecture implies the (B)-Conjecture**|Sotiris Armeniakos et.al.|[2602.23350](http://arxiv.org/abs/2602.23350)|null|
+|**2026-02-26**|**Lyapunov exponents for random products of non-negative matrices**|Nima Alibabaei et.al.|[2602.23317](http://arxiv.org/abs/2602.23317)|null|
+|**2026-02-26**|**Uncertainty-Aware Calculation of Analytical Gradients of Matrix-Interpolatory Reduced-Order Models for Efficient Structural Optimization**|Marcel Warzecha et.al.|[2602.23314](http://arxiv.org/abs/2602.23314)|null|
+|**2026-02-26**|**Physics Informed Viscous Value Representations**|Hrishikesh Viswanath et.al.|[2602.23280](http://arxiv.org/abs/2602.23280)|null|
 |**2026-02-26**|**Tameness, nullness, and amorphic complexity of automatic systems**|Maik Gröger et.al.|[2602.23267](http://arxiv.org/abs/2602.23267)|null|
 |**2026-02-26**|**On limit sets and equicontinuity in the hyperspace of continua in dimension one**|Domagoj Jelić et.al.|[2602.23264](http://arxiv.org/abs/2602.23264)|null|
 |**2026-02-26**|**A unified approach to compression-expansion fixed point theorems for operators systems and applications**|Laura M. Fernández-Pardo et.al.|[2602.23243](http://arxiv.org/abs/2602.23243)|null|
@@ -1665,6 +1671,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport**|Simon Roschmann et.al.|[2602.23353](http://arxiv.org/abs/2602.23353)|null|
+|**2026-02-26**|**Cusped spaces for hierarchically hyperbolic groups, and applications to Dehn filling quotients**|Giorgio Mangioni et.al.|[2602.23275](http://arxiv.org/abs/2602.23275)|null|
 |**2026-02-26**|**Toric schemes and integral models for Shimura varieties with $Γ_1(p)$ -type level**|Georgios Pappas et.al.|[2602.23245](http://arxiv.org/abs/2602.23245)|null|
 |**2026-02-26**|**Invertible Calabi-Yau Orbifolds over Finite Fields II**|Marco Aldi et.al.|[2602.23173](http://arxiv.org/abs/2602.23173)|null|
 |**2026-02-26**|**Quantum thermodynamics and semidefinite programming: regularization and algorithms**|Emanuele Caputo et.al.|[2602.23144](http://arxiv.org/abs/2602.23144)|null|
@@ -2009,6 +2017,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**LLM Novice Uplift on Dual-Use, In Silico Biology Tasks**|Chen Bo Calvin Zhang et.al.|[2602.23329](http://arxiv.org/abs/2602.23329)|null|
 |**2026-02-26**|**Decomposing Private Image Generation via Coarse-to-Fine Wavelet Modeling**|Jasmine Bayrooti et.al.|[2602.23262](http://arxiv.org/abs/2602.23262)|null|
 |**2026-02-26**|**Strengthening security and noise resistance in one-way quantum key distribution protocols through hypercube-based quantum walks**|David Polzoni et.al.|[2602.23261](http://arxiv.org/abs/2602.23261)|null|
 |**2026-02-26**|**SettleFL: Trustless and Scalable Reward Settlement Protocol for Federated Learning on Permissionless Blockchains (Extended version)**|Shuang Liang et.al.|[2602.23167](http://arxiv.org/abs/2602.23167)|null|
