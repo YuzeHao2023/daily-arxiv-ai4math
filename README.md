@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**A Minimal Agent for Automated Theorem Proving**|Borja Requena Pozo et.al.|[2602.24273](http://arxiv.org/abs/2602.24273)|null|
 |**2026-02-27**|**SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems**|Jialiang Fan et.al.|[2602.24235](http://arxiv.org/abs/2602.24235)|null|
 |**2026-02-27**|**Toward Guarantees for Clinical Reasoning in Vision Language Models via Formal Verification**|Vikash Singh et.al.|[2602.24111](http://arxiv.org/abs/2602.24111)|null|
 |**2026-02-27**|**LeGend: A Data-Driven Framework for Lemma Generation in Hardware Model Checking**|Mingkai Miao et.al.|[2602.24010](http://arxiv.org/abs/2602.24010)|null|
@@ -516,6 +517,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Tree decompositions whose trees are subgraphs: An application of Simon's factorization**|Romain Bourneuf et.al.|[2602.24270](http://arxiv.org/abs/2602.24270)|null|
 |**2026-02-27**|**Empirical Challenges with Peers-of-Peers Instruments in the Linear-In-Means Model**|Nathan Canen et.al.|[2602.24215](http://arxiv.org/abs/2602.24215)|null|
 |**2026-02-27**|**Equivariant finite energy proper minimal surfaces in $\mathbb{CH}^2$**|Indranil Biswas et.al.|[2602.24213](http://arxiv.org/abs/2602.24213)|null|
 |**2026-02-27**|**Newton strata realization for hypersurfaces via explicit p-adic cohomology**|Ryan Batubara et.al.|[2602.24155](http://arxiv.org/abs/2602.24155)|null|
@@ -863,6 +865,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Tree decompositions whose trees are subgraphs: An application of Simon's factorization**|Romain Bourneuf et.al.|[2602.24270](http://arxiv.org/abs/2602.24270)|null|
 |**2026-02-27**|**Inversion diameter and 2-edge-colored homomorphisms**|Carmen Arana et.al.|[2602.24171](http://arxiv.org/abs/2602.24171)|null|
 |**2026-02-27**|**On some classes of binary matrices**|Krasimir Yordzhev et.al.|[2602.24105](http://arxiv.org/abs/2602.24105)|null|
 |**2026-02-27**|**Determining Factorial Speed Fast**|Zhidan Feng et.al.|[2602.24064](http://arxiv.org/abs/2602.24064)|null|
@@ -1173,6 +1176,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**On Hamiltonian Monte Carlo for Gaussian Random Variables with Random Hamiltonians**|Yingdong Lu et.al.|[2602.24256](http://arxiv.org/abs/2602.24256)|null|
 |**2026-02-27**|**BLISSNet: Deep Operator Learning for Fast and Accurate Flow Reconstruction from Sparse Sensor Measurements**|Maksym Veremchuk et.al.|[2602.24228](http://arxiv.org/abs/2602.24228)|null|
 |**2026-02-27**|**Renormalization-group perspective on spontaneous stochasticity**|Alexei A. Mailybaev et.al.|[2602.24221](http://arxiv.org/abs/2602.24221)|null|
 |**2026-02-27**|**Endpoint Estimates for Bergman Commutators and New Characterizations of the Bloch Space and $H^\infty$**|Adam B. Christopherson et.al.|[2602.24186](http://arxiv.org/abs/2602.24186)|null|
@@ -1750,6 +1754,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach**|Arnaud Coatanhay et.al.|[2602.24280](http://arxiv.org/abs/2602.24280)|null|
+|**2026-02-27**|**Diamond Determinants and Somos Sequences**|Nikolai Beluhov et.al.|[2602.24239](http://arxiv.org/abs/2602.24239)|null|
 |**2026-02-27**|**When loxodromics are pseudo-Anosovs on witnesses**|Marissa Chesser et.al.|[2602.24179](http://arxiv.org/abs/2602.24179)|null|
 |**2026-02-27**|**Automorphisms of direct products of virtually solvable minimax groups**|Jonas Deré et.al.|[2602.24167](http://arxiv.org/abs/2602.24167)|null|
 |**2026-02-27**|**Newton strata realization for hypersurfaces via explicit p-adic cohomology**|Ryan Batubara et.al.|[2602.24155](http://arxiv.org/abs/2602.24155)|null|
@@ -2108,6 +2114,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**NSHEDB: Noise-Sensitive Homomorphic Encrypted Database Query Engine**|Boram Jung et.al.|[2602.24271](http://arxiv.org/abs/2602.24271)|null|
+|**2026-02-27**|**Shifting in-DRAM**|William C. Tegge et.al.|[2602.24269](http://arxiv.org/abs/2602.24269)|null|
 |**2026-02-27**|**Anansi: Scalable Characterization of Message-Based Job Scams**|Abisheka Pitumpe et.al.|[2602.24223](http://arxiv.org/abs/2602.24223)|null|
 |**2026-02-27**|**SAILOR: A Scalable and Energy-Efficient Ultra-Lightweight RISC-V for IoT Security**|Christian Ewert et.al.|[2602.24166](http://arxiv.org/abs/2602.24166)|null|
 |**2026-02-27**|**Estimating the performance boundary of Gottesman-Kitaev-Preskill codes and number-phase codes**|Kai-Xuan Wen et.al.|[2602.24102](http://arxiv.org/abs/2602.24102)|null|
