@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.06
+## Updated on 2026.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Formal Methods & Automated Reasoning
@@ -2020,6 +2020,7 @@ layout: default
 |**2026-03-05**|**Observational and Thermodynamic aspects of one-dimensional Dark Energy EoS parametrization models**|Anirban Chatterjee et.al.|[2603.05009](http://arxiv.org/abs/2603.05009)|null|
 |**2026-03-05**|**Construction of higher Chow cycles on cyclic coverings of $\mathbb{P}^1 \times \mathbb{P}^1$ , Part II**|Yusuke Nemoto et.al.|[2603.04888](http://arxiv.org/abs/2603.04888)|null|
 |**2026-03-05**|**Frequency of a Digit in the Representation of a Number and the Asymptotic Mean Value of the Digits**|S. O. Klymchuk et.al.|[2603.04877](http://arxiv.org/abs/2603.04877)|null|
+|**2026-03-05**|**Transformations and functions that preserve the asymptotic mean of digits in the ternary representation of a number**|M. V. Pratsiovytyi et.al.|[2603.04871](http://arxiv.org/abs/2603.04871)|null|
 |**2026-03-04**|**Abelian-normal decimal expansions**|John M. Campbell et.al.|[2603.04396](http://arxiv.org/abs/2603.04396)|null|
 |**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
 |**2026-03-04**|**Efficient Refusal Ablation in LLM through Optimal Transport**|Geraldin Nanfack et.al.|[2603.04355](http://arxiv.org/abs/2603.04355)|null|

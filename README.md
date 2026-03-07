@@ -1,4 +1,4 @@
-## Updated on 2026.03.06
+## Updated on 2026.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -143,7 +143,7 @@
 |**2026-01-13**|**Do You Understand How I Feel?: Towards Verified Empathy in Therapy Chatbots**|Francesco Dettori et.al.|[2601.08477](http://arxiv.org/abs/2601.08477)|null|
 |**2026-01-12**|**A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems**|Samuel I. Akinwande et.al.|[2601.08065](http://arxiv.org/abs/2601.08065)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 ## Symbolic AI & Equation Discovery
 
@@ -290,7 +290,7 @@
 |**2026-01-13**|**A Qualitative Model to Reason about Object Rotations (QOR) applied to solve the Cube Comparison Test (CCT)**|Zoe Falomir et.al.|[2601.08382](http://arxiv.org/abs/2601.08382)|null|
 |**2026-01-12**|**Note on Pure D-brane (non--)BPS Black Hole Microstate Counting in Type IIA Superstring Theory**|Sourav Maji et.al.|[2601.07927](http://arxiv.org/abs/2601.07927)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 ## LLMs for Mathematics
 
@@ -581,7 +581,7 @@
 |**2026-01-15**|**Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing**|Yinzhi Zhao et.al.|[2601.10543](http://arxiv.org/abs/2601.10543)|null|
 |**2026-01-15**|**Advanced Manufacturing with Renewable and Bio-based Materials: AI/ML workflows and Process Optimization**|Rigoberto Advincula et.al.|[2601.10382](http://arxiv.org/abs/2601.10382)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 ## Geometry, Topology & Graph Theory
 
@@ -994,7 +994,7 @@
 |**2026-01-16**|**Theta operators on Hodge type Shimura varieties**|Martin Ortiz et.al.|[2601.11260](http://arxiv.org/abs/2601.11260)|null|
 |**2026-01-16**|**The rank-nullity ring of a matroid**|Tara Fife et.al.|[2601.11246](http://arxiv.org/abs/2601.11246)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 ## Combinatorics & Optimization
 
@@ -1353,7 +1353,7 @@
 |**2026-01-16**|**The Dynamic Team Orienteering Problem in Spatial Crowdsourcing: A Scenario Sampling Approach**|Zhibin Wu et.al.|[2601.11010](http://arxiv.org/abs/2601.11010)|null|
 |**2026-01-15**|**Sustainable Vertical Heterogeneous Networks: A Cell Switching Approach with High Altitude Platform Station**|Maryam Salamatmoghadasi et.al.|[2601.10891](http://arxiv.org/abs/2601.10891)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 ## Analysis & PDE Learning
 
@@ -1775,7 +1775,7 @@
 |**2026-01-16**|**Second order continuous and discrete dynamical systems for solving inverse quasi-variational inequalities**|Pham Viet Hai et.al.|[2601.11300](http://arxiv.org/abs/2601.11300)|null|
 |**2026-01-16**|**Precompact families of Carathéodory differential equations revisited**|Sylvia Novo et.al.|[2601.11274](http://arxiv.org/abs/2601.11274)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 ## Numerical Analysis & Scientific Computing
 
@@ -2029,7 +2029,7 @@
 |**2026-01-15**|**Optimal error estimates for a discontinuous Galerkin method on curved boundaries with polygonal meshes**|Adérito Araújo et.al.|[2601.10474](http://arxiv.org/abs/2601.10474)|null|
 |**2026-01-15**|**Non-Intrusive Hyperreduction by a Physics-Augmented Neural Network with Second-Order Sobolev Training**|Arwed Schütz et.al.|[2601.10442](http://arxiv.org/abs/2601.10442)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 ## Probability, Statistics & Algebra
 
@@ -2045,6 +2045,7 @@
 |**2026-03-05**|**Observational and Thermodynamic aspects of one-dimensional Dark Energy EoS parametrization models**|Anirban Chatterjee et.al.|[2603.05009](http://arxiv.org/abs/2603.05009)|null|
 |**2026-03-05**|**Construction of higher Chow cycles on cyclic coverings of $\mathbb{P}^1 \times \mathbb{P}^1$ , Part II**|Yusuke Nemoto et.al.|[2603.04888](http://arxiv.org/abs/2603.04888)|null|
 |**2026-03-05**|**Frequency of a Digit in the Representation of a Number and the Asymptotic Mean Value of the Digits**|S. O. Klymchuk et.al.|[2603.04877](http://arxiv.org/abs/2603.04877)|null|
+|**2026-03-05**|**Transformations and functions that preserve the asymptotic mean of digits in the ternary representation of a number**|M. V. Pratsiovytyi et.al.|[2603.04871](http://arxiv.org/abs/2603.04871)|null|
 |**2026-03-04**|**Abelian-normal decimal expansions**|John M. Campbell et.al.|[2603.04396](http://arxiv.org/abs/2603.04396)|null|
 |**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
 |**2026-03-04**|**Efficient Refusal Ablation in LLM through Optimal Transport**|Geraldin Nanfack et.al.|[2603.04355](http://arxiv.org/abs/2603.04355)|null|
@@ -2452,7 +2453,7 @@
 |**2026-01-16**|**A de Rham weight part of Serre's conjecture and generalized mod $p$ BGG decompositions**|Martin Ortiz et.al.|[2601.11271](http://arxiv.org/abs/2601.11271)|null|
 |**2026-01-16**|**Theta operators on Hodge type Shimura varieties**|Martin Ortiz et.al.|[2601.11260](http://arxiv.org/abs/2601.11260)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 ## Discrete Math & Cryptography
 
@@ -2863,7 +2864,7 @@
 |**2026-01-16**|**A Defender-Attacker-Defender Model for Optimizing the Resilience of Hospital Networks to Cyberattacks**|Stephan Helfrich et.al.|[2601.11129](http://arxiv.org/abs/2601.11129)|null|
 |**2026-01-16**|**Differentially Private Subspace Fine-Tuning for Large Language Models**|Lele Zheng et.al.|[2601.11113](http://arxiv.org/abs/2601.11113)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4math-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4math-arxiv-daily/graphs/contributors
