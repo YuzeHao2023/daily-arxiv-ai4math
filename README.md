@@ -1,4 +1,4 @@
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**AlertStar: Path-Aware Alert Prediction on Hyper-Relational Knowledge Graphs**|Zahra Makki Nayeri et.al.|[2604.03104](http://arxiv.org/abs/2604.03104)|null|
+|**2026-04-03**|**Proceedings of the 7th Workshop on Models for Formal Analysis of Real Systems**|Maurice H. ter Beek et.al.|[2604.03053](http://arxiv.org/abs/2604.03053)|null|
+|**2026-04-03**|**On ANN-enhanced positive invariance for nonlinear flat systems**|Huu-Thinh Do et.al.|[2604.03046](http://arxiv.org/abs/2604.03046)|null|
 |**2026-04-02**|**Qiana: A First-Order Formalism to Quantify over Contexts and Formulas with Temporality**|Simon Coumes et.al.|[2604.01952](http://arxiv.org/abs/2604.01952)|null|
 |**2026-04-02**|**Can Large Language Models Model Programs Formally?**|Zhiyong Chen et.al.|[2604.01851](http://arxiv.org/abs/2604.01851)|null|
 |**2026-04-02**|**GraphWalk: Enabling Reasoning in Large Language Models through Tool-Based Graph Navigation**|Taraneh Ghandi et.al.|[2604.01610](http://arxiv.org/abs/2604.01610)|null|
@@ -206,12 +209,13 @@
 |**2026-01-13**|**Do You Understand How I Feel?: Towards Verified Empathy in Therapy Chatbots**|Francesco Dettori et.al.|[2601.08477](http://arxiv.org/abs/2601.08477)|null|
 |**2026-01-12**|**A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems**|Samuel I. Akinwande et.al.|[2601.08065](http://arxiv.org/abs/2601.08065)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Symbolic AI & Equation Discovery
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Compositional Neuro-Symbolic Reasoning**|Anugyan Das et.al.|[2604.02434](http://arxiv.org/abs/2604.02434)|null|
 |**2026-04-02**|**Symmetry-Informed Term Filtering for Continuum Equation Discovery**|Junya Yokokura et.al.|[2604.01592](http://arxiv.org/abs/2604.01592)|null|
 |**2026-04-01**|**Beyond Symbolic Solving: Multi Chain-of-Thought Voting for Geometric Reasoning in Large Language Models**|Md. Abu Bakor Siddique et.al.|[2604.00890](http://arxiv.org/abs/2604.00890)|null|
 |**2026-04-01**|**Predicting Dynamics of Ultra-Large Complex Systems by Inferring Governing Equations**|Qi Shao et.al.|[2604.00599](http://arxiv.org/abs/2604.00599)|null|
@@ -434,12 +438,18 @@
 |**2026-01-13**|**A Qualitative Model to Reason about Object Rotations (QOR) applied to solve the Cube Comparison Test (CCT)**|Zoe Falomir et.al.|[2601.08382](http://arxiv.org/abs/2601.08382)|null|
 |**2026-01-12**|**Note on Pure D-brane (non--)BPS Black Hole Microstate Counting in Type IIA Superstring Theory**|Sourav Maji et.al.|[2601.07927](http://arxiv.org/abs/2601.07927)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## LLMs for Mathematics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents**|Delip Rao et.al.|[2604.03173](http://arxiv.org/abs/2604.03173)|null|
+|**2026-04-03**|**InCoder-32B-Thinking: Industrial Code World Model for Thinking**|Jian Yang et.al.|[2604.03144](http://arxiv.org/abs/2604.03144)|null|
+|**2026-04-03**|**Self-Distilled RLVR**|Chenxu Yang et.al.|[2604.03128](http://arxiv.org/abs/2604.03128)|null|
+|**2026-04-03**|**NeuReasoner: Towards Explainable, Controllable, and Unified Reasoning via Mixture-of-Neurons**|Haonan Dong et.al.|[2604.02972](http://arxiv.org/abs/2604.02972)|null|
+|**2026-04-03**|**Dense Associative Memory with biased patterns: a Replica Symmetric analysis**|Linda Albanese et.al.|[2604.02789](http://arxiv.org/abs/2604.02789)|null|
+|**2026-04-02**|**Self-Directed Task Identification**|Timothy Gould et.al.|[2604.02430](http://arxiv.org/abs/2604.02430)|null|
 |**2026-04-02**|**Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning**|Bangji Yang et.al.|[2604.02322](http://arxiv.org/abs/2604.02322)|null|
 |**2026-04-02**|**Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing**|Gengsheng Li et.al.|[2604.02288](http://arxiv.org/abs/2604.02288)|null|
 |**2026-04-02**|**Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students' Regulation of LLM Use in a Science Task**|O. Clerc et.al.|[2604.01955](http://arxiv.org/abs/2604.01955)|null|
@@ -893,12 +903,22 @@
 |**2026-01-15**|**Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing**|Yinzhi Zhao et.al.|[2601.10543](http://arxiv.org/abs/2601.10543)|null|
 |**2026-01-15**|**Advanced Manufacturing with Renewable and Bio-based Materials: AI/ML workflows and Process Optimization**|Rigoberto Advincula et.al.|[2601.10382](http://arxiv.org/abs/2601.10382)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Geometry, Topology & Graph Theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**p-adic Hodge theory of de Rham local systems, I: Newton polygon and monodromy**|Heng Du et.al.|[2604.03220](http://arxiv.org/abs/2604.03220)|null|
+|**2026-04-03**|**The Hitchin morphism for K-trivial varieties**|Aryaman Patel et.al.|[2604.03217](http://arxiv.org/abs/2604.03217)|null|
+|**2026-04-03**|**Duality of operator Frobenius algebras and solution of Eisenhart-Stäckel problem in the non-diagonal case**|Alexey V. Bolsinov et.al.|[2604.03195](http://arxiv.org/abs/2604.03195)|null|
+|**2026-04-03**|**Lipschitz saturation of toric singularities in any dimension**|François Bernard et.al.|[2604.03164](http://arxiv.org/abs/2604.03164)|null|
+|**2026-04-03**|**A motivic Poisson formula for split algebraic tori with an application to motivic height zeta functions**|Margaret Bilu et.al.|[2604.03162](http://arxiv.org/abs/2604.03162)|null|
+|**2026-04-03**|**Persistence of the Wiener Sausage: Sampling Stability and a Law of Large Numbers for Drifted Planar Brownian Motion DRAFT -CURRENTLY UNDER REVIEW**|Tristan Guillaume et.al.|[2604.03130](http://arxiv.org/abs/2604.03130)|null|
+|**2026-04-03**|**Worldsheet Duals to One-Matrix Models**|Alessandro Giacchetto et.al.|[2604.03126](http://arxiv.org/abs/2604.03126)|null|
+|**2026-04-03**|**Hilbert scheme of points on non-reduced nodal curves**|Yuze Luan et.al.|[2604.03111](http://arxiv.org/abs/2604.03111)|null|
+|**2026-04-03**|**On the Inscribed Sphere and Concurrent Lines through the Centers of Apollonius Spheres in $\mathbb{R}^n$**|Miłosz Płatek et.al.|[2604.03067](http://arxiv.org/abs/2604.03067)|null|
+|**2026-04-03**|**On de Rham--Witt Cohomology of Classifying Stacks**|Shizhang Li et.al.|[2604.03062](http://arxiv.org/abs/2604.03062)|null|
 |**2026-04-02**|**Revealing the neutrino mass through persistent homology of the cosmic web**|Jiaqi Wang et.al.|[2604.02300](http://arxiv.org/abs/2604.02300)|null|
 |**2026-04-02**|**Plücker degrees of Quot schemes**|Samuel Stark et.al.|[2604.02258](http://arxiv.org/abs/2604.02258)|null|
 |**2026-04-02**|**Finsler metrics on $1/n$ -translation structures on surfaces**|Beatrice Pozzetti et.al.|[2604.02243](http://arxiv.org/abs/2604.02243)|null|
@@ -1529,12 +1549,22 @@
 |**2026-01-16**|**Theta operators on Hodge type Shimura varieties**|Martin Ortiz et.al.|[2601.11260](http://arxiv.org/abs/2601.11260)|null|
 |**2026-01-16**|**The rank-nullity ring of a matroid**|Tara Fife et.al.|[2601.11246](http://arxiv.org/abs/2601.11246)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Combinatorics & Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Spectral Properties of Zero-Divisor Graphs of Truncated Polynomial Rings**|Bilal Ahmad Rather et.al.|[2604.03101](http://arxiv.org/abs/2604.03101)|null|
+|**2026-04-03**|**Self-Supervised Graph Neural Networks for Full-Scale Tertiary Voltage Control**|Balthazar Donon et.al.|[2604.03087](http://arxiv.org/abs/2604.03087)|null|
+|**2026-04-03**|**The Quadratic Bin Packing Problem: Exact Formulations and Algorithm**|Vítor Gomes Chagas et.al.|[2604.03078](http://arxiv.org/abs/2604.03078)|null|
+|**2026-04-03**|**A Boolean encoding of the Most Permissive semantics for Boolean networks**|Laure de Chancel et.al.|[2604.03029](http://arxiv.org/abs/2604.03029)|null|
+|**2026-04-03**|**Sample compression schemes for balls in structurally sparse graphs**|Romain Bourneuf et.al.|[2604.02949](http://arxiv.org/abs/2604.02949)|null|
+|**2026-04-03**|**A polynomial bound for the minimal excluded minors for a surface**|Sarah Houdaigoui et.al.|[2604.02796](http://arxiv.org/abs/2604.02796)|null|
+|**2026-04-02**|**RFOX (Rotated-Field Oscillatory eXchange) quantum algorithm: Towards Parameter-Free Quantum Optimizers**|Brian García Sarmina et.al.|[2604.02569](http://arxiv.org/abs/2604.02569)|null|
+|**2026-04-02**|**Principled and Scalable Diversity-Aware Retrieval via Cardinality-Constrained Binary Quadratic Programming**|Qiheng Lu et.al.|[2604.02554](http://arxiv.org/abs/2604.02554)|null|
+|**2026-04-02**|**On vehicle routing problems with stochastic demands -- Scenario-optimal recourse policies**|Matheus J. Ota et.al.|[2604.02496](http://arxiv.org/abs/2604.02496)|null|
+|**2026-04-02**|**Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space**|Ilya Levin et.al.|[2604.02476](http://arxiv.org/abs/2604.02476)|null|
 |**2026-04-02**|**Trapping and commutative Boolean networks**|Maximilien Gadouleau et.al.|[2604.02303](http://arxiv.org/abs/2604.02303)|null|
 |**2026-04-02**|**Incorporating circular economy policies into product supply chains using bilevel optimization -- A case study on coffee packaging**|Paola Munoz Briones et.al.|[2604.02247](http://arxiv.org/abs/2604.02247)|null|
 |**2026-04-02**|**Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization**|Runyu Zhang et.al.|[2604.02202](http://arxiv.org/abs/2604.02202)|null|
@@ -2078,12 +2108,22 @@
 |**2026-01-16**|**The Dynamic Team Orienteering Problem in Spatial Crowdsourcing: A Scenario Sampling Approach**|Zhibin Wu et.al.|[2601.11010](http://arxiv.org/abs/2601.11010)|null|
 |**2026-01-15**|**Sustainable Vertical Heterogeneous Networks: A Cell Switching Approach with High Altitude Platform Station**|Maryam Salamatmoghadasi et.al.|[2601.10891](http://arxiv.org/abs/2601.10891)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Analysis & PDE Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Neuromorphic Realization of Best Response in Finite-Action Games**|Himani Sinhmar et.al.|[2604.03222](http://arxiv.org/abs/2604.03222)|null|
+|**2026-04-03**|**Fast and Accurate Inverse Blood Flow Modeling from Minimal Cuff-Pressure Data via PINNs**|Sokratis J. Anagnostopoulos et.al.|[2604.03221](http://arxiv.org/abs/2604.03221)|null|
+|**2026-04-03**|**High-Precision Phase-Shift Transferable Neural Networks for High-Frequency Function Approximation and PDE Solution**|Xuyang Gao et.al.|[2604.03186](http://arxiv.org/abs/2604.03186)|null|
+|**2026-04-03**|**Swarm-Based Inertial Methods for Optimization**|Qiyu Wu et.al.|[2604.03124](http://arxiv.org/abs/2604.03124)|null|
+|**2026-04-03**|**Expansiveness of vertical subgroups of the Heisenberg group**|Michał Prusik et.al.|[2604.03100](http://arxiv.org/abs/2604.03100)|null|
+|**2026-04-03**|**A High-Order Fast Direct Solver for Surface PDEs on Triangles**|Gentian Zavalani et.al.|[2604.03097](http://arxiv.org/abs/2604.03097)|null|
+|**2026-04-03**|**On Data-Driven Koopman Representations of Nonlinear Delay Differential Equations**|Santosh Mohan Rajkumar et.al.|[2604.03086](http://arxiv.org/abs/2604.03086)|null|
+|**2026-04-03**|**Learning Contractive Integral Operators with Fredholm Integral Neural Operators**|Kyriakos C. Georgiou et.al.|[2604.03034](http://arxiv.org/abs/2604.03034)|null|
+|**2026-04-03**|**Generalized Transferable Neural Networks for Steady-State Partial Differential Equations**|Tao Cheng et.al.|[2604.03020](http://arxiv.org/abs/2604.03020)|null|
+|**2026-04-03**|**Compositionality of Lyapunov functions via assume-guarantee reasoning**|Matteo Capucci et.al.|[2604.03017](http://arxiv.org/abs/2604.03017)|null|
 |**2026-04-02**|**A Positivity-Preserving Relaxation Algorithm**|Thomas Izgin et.al.|[2604.02308](http://arxiv.org/abs/2604.02308)|null|
 |**2026-04-02**|**PARD-SSM: Probabilistic Cyber-Attack Regime Detection via Variational Switching State-Space Models**|Prakul Sunil Hiremath et.al.|[2604.02299](http://arxiv.org/abs/2604.02299)|null|
 |**2026-04-02**|**Model-Based Reinforcement Learning for Control under Time-Varying Dynamics**|Klemens Iten et.al.|[2604.02260](http://arxiv.org/abs/2604.02260)|null|
@@ -2721,12 +2761,19 @@
 |**2026-01-16**|**Second order continuous and discrete dynamical systems for solving inverse quasi-variational inequalities**|Pham Viet Hai et.al.|[2601.11300](http://arxiv.org/abs/2601.11300)|null|
 |**2026-01-16**|**Precompact families of Carathéodory differential equations revisited**|Sylvia Novo et.al.|[2601.11274](http://arxiv.org/abs/2601.11274)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Numerical Analysis & Scientific Computing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**High-Precision Phase-Shift Transferable Neural Networks for High-Frequency Function Approximation and PDE Solution**|Xuyang Gao et.al.|[2604.03186](http://arxiv.org/abs/2604.03186)|null|
+|**2026-04-03**|**High-order parametric local discontinuous Galerkin methods for anisotropic curve-shortening flows**|Xiuhui Guo et.al.|[2604.03106](http://arxiv.org/abs/2604.03106)|null|
+|**2026-04-03**|**Spectral Deferred Corrections in the framework of Runge-Kutta methods**|Eugen Bronasco et.al.|[2604.03013](http://arxiv.org/abs/2604.03013)|null|
+|**2026-04-03**|**QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models**|Xinhao Wang et.al.|[2604.02816](http://arxiv.org/abs/2604.02816)|null|
+|**2026-04-03**|**Product-Stability: Provable Convergence for Gradient Descent on the Edge of Stability**|Eric Gan et.al.|[2604.02653](http://arxiv.org/abs/2604.02653)|null|
+|**2026-04-02**|**AQ-Stacker: An Adaptive Quantum Matrix Multiplication Algorithm with Scaling via Parallel Hadamard Stacking**|Wladimir Silva et.al.|[2604.02530](http://arxiv.org/abs/2604.02530)|null|
+|**2026-04-02**|**Sparse Bayesian Learning Algorithms Revisited: From Learning Majorizers to Structured Algorithmic Learning using Neural Networks**|Rushabha Balaji et.al.|[2604.02513](http://arxiv.org/abs/2604.02513)|null|
 |**2026-04-02**|**Compact Runge-Kutta flux reconstruction methods with entropy and/or kinetic energy preserving fluxes**|Arpit Babbar et.al.|[2604.02125](http://arxiv.org/abs/2604.02125)|null|
 |**2026-04-02**|**A variationally consistent beam-to-beam point coupling formulation for geometrically exact beam theories**|Ivo Steinbrecher et.al.|[2604.02049](http://arxiv.org/abs/2604.02049)|null|
 |**2026-04-02**|**Set-Theoretic Receding Horizon Control for Obstacle Avoidance and Overtaking in Autonomous Highway Driving**|Gianni Cario et.al.|[2604.01790](http://arxiv.org/abs/2604.01790)|null|
@@ -3145,12 +3192,22 @@
 |**2026-01-15**|**Optimal error estimates for a discontinuous Galerkin method on curved boundaries with polygonal meshes**|Adérito Araújo et.al.|[2601.10474](http://arxiv.org/abs/2601.10474)|null|
 |**2026-01-15**|**Non-Intrusive Hyperreduction by a Physics-Augmented Neural Network with Second-Order Sobolev Training**|Arwed Schütz et.al.|[2601.10442](http://arxiv.org/abs/2601.10442)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Probability, Statistics & Algebra
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**p-adic Hodge theory of de Rham local systems, I: Newton polygon and monodromy**|Heng Du et.al.|[2604.03220](http://arxiv.org/abs/2604.03220)|null|
+|**2026-04-03**|**Parametric SED Modelling of Protoplanetary Discs: Validation and Application to an Unstudied YSO**|Volkan Bakış et.al.|[2604.03211](http://arxiv.org/abs/2604.03211)|null|
+|**2026-04-03**|**High-Dimensional Signal Compression: Lattice Point Bounds and Metric Entropy**|A. Iosevich et.al.|[2604.03178](http://arxiv.org/abs/2604.03178)|null|
+|**2026-04-03**|**A motivic Poisson formula for split algebraic tori with an application to motivic height zeta functions**|Margaret Bilu et.al.|[2604.03162](http://arxiv.org/abs/2604.03162)|null|
+|**2026-04-03**|**A generalization of Bressoud's beautiful bijection**|Katya Borodinova et.al.|[2604.03140](http://arxiv.org/abs/2604.03140)|null|
+|**2026-04-03**|**Understanding the complexity of frequency and phase angle fluctuations in power grids**|Alessandro Lonardi et.al.|[2604.03133](http://arxiv.org/abs/2604.03133)|null|
+|**2026-04-03**|**Exit times from time-dependent random domains: continuity, weak convergence, and exit-time profiles Draft -currently under review at Stochastic Processes and their Applications**|Tristan Guillaume et.al.|[2604.03129](http://arxiv.org/abs/2604.03129)|null|
+|**2026-04-03**|**Functoriality and the theta correspondence**|Alexander Hazeltine et.al.|[2604.03095](http://arxiv.org/abs/2604.03095)|null|
+|**2026-04-03**|**Quantitative spectroscopy of single and multiple OB-type stars. Non-LTE spectrum analysis with machine learning**|P. Aschenbrenner et.al.|[2604.03082](http://arxiv.org/abs/2604.03082)|null|
+|**2026-04-03**|**An unstable abstract elementary class of modules: A variation of Paolini-Shelah's example**|Daniel Herden et.al.|[2604.03080](http://arxiv.org/abs/2604.03080)|null|
 |**2026-04-02**|**A construction of 2-arc-transitive non-solvable covers of complete graphs**|Jiyong Chen et.al.|[2604.02316](http://arxiv.org/abs/2604.02316)|null|
 |**2026-04-02**|**A weak transport approach to the Schrödinger-Bass bridge**|Manuel Hasenbichler et.al.|[2604.02312](http://arxiv.org/abs/2604.02312)|null|
 |**2026-04-02**|**Large values of exponential sums with multiplicative coefficients**|Andrew Granville et.al.|[2604.02306](http://arxiv.org/abs/2604.02306)|null|
@@ -3793,12 +3850,22 @@
 |**2026-01-16**|**A de Rham weight part of Serre's conjecture and generalized mod $p$ BGG decompositions**|Martin Ortiz et.al.|[2601.11271](http://arxiv.org/abs/2601.11271)|null|
 |**2026-01-16**|**Theta operators on Hodge type Shimura varieties**|Martin Ortiz et.al.|[2601.11260](http://arxiv.org/abs/2601.11260)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Discrete Math & Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**A Tsetlin Machine-driven Intrusion Detection System for Next-Generation IoMT Security**|Rahul Jaiswal et.al.|[2604.03205](http://arxiv.org/abs/2604.03205)|null|
+|**2026-04-03**|**Learning the Signature of Memorization in Autoregressive Language Models**|David Ilić et.al.|[2604.03199](http://arxiv.org/abs/2604.03199)|null|
+|**2026-04-03**|**A Systematic Security Evaluation of OpenClaw and Its Variants**|Yuhang Wang et.al.|[2604.03131](http://arxiv.org/abs/2604.03131)|null|
+|**2026-04-03**|**An Independent Safety Evaluation of Kimi K2.5**|Zheng-Xin Yong et.al.|[2604.03121](http://arxiv.org/abs/2604.03121)|null|
+|**2026-04-03**|**AlertStar: Path-Aware Alert Prediction on Hyper-Relational Knowledge Graphs**|Zahra Makki Nayeri et.al.|[2604.03104](http://arxiv.org/abs/2604.03104)|null|
+|**2026-04-03**|**Supply-Chain Poisoning Attacks Against LLM Coding Agent Skill Ecosystems**|Yubin Qu et.al.|[2604.03081](http://arxiv.org/abs/2604.03081)|null|
+|**2026-04-03**|**Credential Leakage in LLM Agent Skills: A Large-Scale Empirical Study**|Zhihao Chen et.al.|[2604.03070](http://arxiv.org/abs/2604.03070)|null|
+|**2026-04-03**|**Analyzing Healthcare Interoperability Vulnerabilities: Formal Modeling and Graph-Theoretic Approach**|Jawad Mohammed et.al.|[2604.03043](http://arxiv.org/abs/2604.03043)|null|
+|**2026-04-03**|**Weight distribution bounds to relate minimum distance, list decoding, and symmetric channel performance**|Donald Kougang-Yombi et.al.|[2604.02994](http://arxiv.org/abs/2604.02994)|null|
+|**2026-04-03**|**Towards Secure Agent Skills: Architecture, Threat Taxonomy, and Security Analysis**|Zhiyuan Li et.al.|[2604.02837](http://arxiv.org/abs/2604.02837)|null|
 |**2026-04-02**|**Space-Efficient Quantum Algorithm for Elliptic Curve Discrete Logarithms with Resource Estimation**|Han Luo et.al.|[2604.02311](http://arxiv.org/abs/2604.02311)|null|
 |**2026-04-02**|**PARD-SSM: Probabilistic Cyber-Attack Regime Detection via Variational Switching State-Space Models**|Prakul Sunil Hiremath et.al.|[2604.02299](http://arxiv.org/abs/2604.02299)|null|
 |**2026-04-02**|**AEGIS: Adversarial Entropy-Guided Immune System -- Thermodynamic State Space Models for Zero-Day Network Evasion Detection**|Vickson Ferrel et.al.|[2604.02149](http://arxiv.org/abs/2604.02149)|null|
@@ -4420,7 +4487,7 @@
 |**2026-01-16**|**A Defender-Attacker-Defender Model for Optimizing the Resilience of Hospital Networks to Cyberattacks**|Stephan Helfrich et.al.|[2601.11129](http://arxiv.org/abs/2601.11129)|null|
 |**2026-01-16**|**Differentially Private Subspace Fine-Tuning for Large Language Models**|Lele Zheng et.al.|[2601.11113](http://arxiv.org/abs/2601.11113)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4math-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4math-arxiv-daily/graphs/contributors
